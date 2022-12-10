@@ -1,0 +1,43 @@
+@media only screen and (min-width: 576px){
+  .price{
+    margin-left: 90px !important;
+  }
+ 
+}
+@media only screen and (max-width: 576px){
+  .about img{
+    margin-top: 30px !important;
+  }
+  .price{
+    margin-left: 60px !important;
+  }
+  .sub{
+    display: block !important;
+  }
+  .map{
+    margin-top: 60px !important;
+  }
+  .sub .abc{
+    margin-left: 3px !important;
+  }
+}
+
+
+
+.company h1{
+    font-size: 3.5rem;
+}
+.menu{
+  position: sticky;
+  top: 0;
+}
+  /* .carousel{
+    margin-top: 50px;
+  }
+  .carousel-inner{
+    height: 100px;
+  }
+  .carousel-caption{
+    color: #fff;
+    top: 50%;
+  } */

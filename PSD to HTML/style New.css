@@ -1,0 +1,1970 @@
+@media only screen and (max-width:600px){
+    .navigation img{
+        margin-top: 60px !important;  
+    }
+    .yellowback img{
+        height: 824px !important;
+        margin-top: -358px !important;
+    }
+    .navigation button{
+        margin-top:  -30px !important;
+        margin-left: 680px !important;
+    }
+    .background{
+        width: 782px !important;
+    }
+    .greyback img{
+       margin-left: 80px !important;
+       margin-top: -106px;
+       width: 300px;
+    }
+    .mymenu a{
+        font-size: 20px !important; 
+        margin-left: 20px;
+    }
+    .mymenu ul{
+        margin-top: -40px !important;
+    }
+    .express{
+        display: none !important;
+    }
+    .mid-text .t1{
+        margin-left: 110px !important;
+        font-size: 40px !important;
+        margin-top: -540px !important;
+    }
+    .mid-text .t2{
+        font-size: 62px !important;
+        margin-top: -490px !important;
+    }
+    .mid-text .t3{
+        font-size: 20px !important;
+        margin-top: -400px !important;
+        margin-left: 60px !important; 
+    }
+    .mid-text img{
+        margin-top: -740px !important;
+        margin-left: 70px;
+        width: 330px;
+    }
+    .mid-text .t4{
+        margin-top: -350px !important;
+        margin-left: 100px !important;
+        width: 150px !important;
+    }
+    .mid-text .t5{
+        margin-left: 235px !important;
+        margin-top: -364px !important;
+        width: 90px !important;
+    }
+    .mid-text button{
+        margin-top: -490px !important;
+        margin-left: -280px !important;
+    }
+    .backimg img{
+        margin-top: -631px !important;
+        margin-right: -210px !important;
+        height: 480px !important;
+        width: 480px !important;
+    }
+    .backimg .leaf{
+        height: 70px !important;
+        width: 50px !important;
+        margin-top: -1120px !important;
+    }
+    .backimg .leaf2{
+        height: 70px !important;
+        width: 50px !important;
+        margin-left: 700px !important;
+        margin-top: -490px !important;
+     
+    }
+    .backimg .pasta{
+        height: 70px !important;
+        width: 60px !important;
+        margin-top: -1200px !important;
+        margin-left: 460px !important;
+    }
+    .backimg .tomato{
+        height: 60px !important;
+        width: 60px !important;
+        margin-left: 40px !important;
+        margin-top: -400px !important;
+    }
+    .backimg .last img{ 
+        margin-top: -350px !important;
+        margin-left: -280px !important;
+    }
+    .choose .heading h1{
+        margin-left: 200px !important;
+        width: 400px;
+    }
+    .choose .heading p{
+        margin-left: 40px !important;
+        width: 700px !important;
+    }
+    .choose img{
+        width: 270px !important;
+        margin-top: 220px !important;
+    }
+    .choose .menu .backmenu{
+        margin-top: 120px !important;
+        width: 760px !important;
+        height: 100px !important;
+    }
+    .choose .menu{
+        width: 887px;
+    }
+    .choose .menu .dish2{
+        margin-left: -20px;
+    }
+    .choose .menu .dish3{
+       margin-left: -15px;
+    }
+    .choose .menu .dish1 .pera {
+        width: 200px !important;
+        margin-left: 30px !important;
+    }
+    .choose .menu .dish2 .pera {
+        width: 200px !important;
+        margin-left: 30px !important;
+        margin-top: 10px !important;
+    }
+    .choose .menu .dish3 .pera {
+        width: 200px !important;
+        margin-left: 35px !important;
+    }
+    .choose .menu h5{
+        margin-left: -20px !important;
+    }
+    .choose .menu .dish2 h5{
+        margin-top: 10px !important;
+    }
+    .choose .menu button{ 
+        margin-left: 60px !important;
+    }
+    .upper h6{
+        margin-left: 250px !important;
+    }
+    .upper h2{
+        margin-left: 160px;
+        width: 450px;
+    }
+    .upper p{
+        width: 700px !important;
+        margin-left: 40px !important;
+    }
+    .slide{
+        height: 500px;
+        display: flex !important;
+    }
+    .slide img{
+        height: 240px !important;
+        width: 240px !important;
+        margin-top: 20px;
+    }
+    .slide .s1{
+        height: 360px !important;
+        margin-top: -285px !important;
+        width: 390px !important;
+        position: absolute;
+        margin-left: 200px !important;
+    }
+    .slide .s3{
+        margin-top: -230px;
+        margin-left: 515px;
+    }
+    .slide button{
+        margin-top: -80px;
+    }
+    .tryit{
+        display: flex;
+        width: 770px;
+    }
+    .most_popular{
+        display: flex;
+        margin-top: 40px !important;
+    }
+    .most_popular .popular1 img{
+        height: 348px !important;
+        width: 8000px !important;
+        margin-top: 0px !important;
+        margin-left: 10px !important;
+    }
+    .most_popular .popular1 p{
+        top: 2280px !important;
+        left: 40px !important;
+    }
+    .most_popular .popular1 h2{
+        top: 2310px !important;
+        left: 40px !important;
+        font-size: 35px !important;
+    }
+    .most_popular .popular2 img{
+        margin-top: 5px !important;
+        margin-left: 30px !important;
+        height: 160px;
+        position: absolute;
+        width: 350px !important;
+    }
+    .most_popular .popular2 p{
+        top: 2270px !important;
+        left: 410px !important;
+        width: 200px !important;
+    }
+    .most_popular .popular2 h3{
+        top: 2300px !important;
+        font-size: 30px !important;
+        left: 412px !important;
+    }
+    .most_popular .popular3 img{
+        margin-top: 180px !important;
+        margin-left: 30px !important;
+        margin-right: 40px;
+        width: 350px;
+        height: 170px;
+    }
+    .most_popular .popular3 p{
+        top: 2450px !important;
+        left: 410px !important;
+        width: 200px;
+    }
+    .most_popular .popular3 h3{
+        top: 2480px !important;
+        left: 410px !important;
+    }
+    .reservation h6{
+        margin-left: 240px;
+    }
+    .reservation h2{
+        margin-left: 40px;
+        width: 700px;
+    }
+    .reservation button{
+        width: 350px !important;
+        margin-left: -250px;
+    }
+    .reservation .endtab{
+        margin-left: 650px;
+        width: 0px;
+        margin-top: -205px;
+    }
+    .reservation .starttab{
+        margin-left: -10px !important;
+        width: 350px !important;
+    }
+    .reservation input{
+        height: 20px;
+        width: 350px;
+        font-size: 17px;
+        margin-left: -250px;
+    }
+    .footimg{
+        width: 760px;
+    }
+    .footimg .left img{
+        height: 55px !important;
+        width: 200px !important;
+        margin-top: -580px !important;
+        margin-left: 20px !important;
+    }
+    .footimg .left p{
+        margin-top: -250px !important;
+        width: 400px !important;
+        margin-left: 20px !important;
+    }
+    .footimg .left h6{
+        margin-top: 40px !important;
+        margin-left: 20px !important;
+    }
+    .right{
+        display: flex;
+        margin-top: -200px !important;
+        margin-left: 520px !important;
+
+    }
+    .right2{
+        display: flex;
+        margin-left: 520px !important;
+        margin-top: 5px !important;
+    }
+    .insta{
+        margin-top: 40px !important;
+        margin-left: 580px !important;
+     }
+    .face{
+        margin-left: 620px !important;
+        margin-top: -30px !important;
+     }
+    .twitter{ 
+        margin-left: 660px !important;
+        margin-top: -30px;
+     }
+    .whatsapp{
+        margin-left: 700px !important;
+        margin-top: -28px;
+     }
+}
+
+
+
+
+@media only screen and (min-width: 600px) and (max-width:1074px){
+    .navigation img{
+        margin-top: 60px !important;  
+    }
+    .yellowback img{
+        height: 824px !important;
+        margin-top: -358px !important;
+    }
+    .navigation button{
+        margin-top:  -30px !important;
+        margin-left: 700px !important;
+    }
+    .background{
+        width: 791px !important;
+    }
+    .greyback img{
+       margin-left: 80px !important;
+       margin-top: -106px;
+       width: 300px;
+    }
+    .mymenu a{
+        font-size: 20px !important; 
+        margin-left: 20px;
+    }
+    .mymenu ul{
+        margin-top: -40px !important;
+    }
+    .express{
+        display: none !important;
+    }
+    .mid-text .t1{
+        margin-left: 110px !important;
+        font-size: 40px !important;
+        margin-top: -540px !important;
+    }
+    .mid-text .t2{
+        font-size: 62px !important;
+        margin-top: -490px !important;
+    }
+    .mid-text .t3{
+        font-size: 20px !important;
+        margin-top: -400px !important;
+        margin-left: 60px !important; 
+    }
+    .mid-text img{
+        margin-top: -740px !important;
+        margin-left: 70px;
+        width: 330px;
+    }
+    .mid-text .t4{
+        margin-top: -350px !important;
+        margin-left: 100px !important;
+        width: 150px !important;
+    }
+    .mid-text .t5{
+        margin-left: 235px !important;
+        margin-top: -364px !important;
+        width: 90px !important;
+    }
+    .mid-text button{
+        margin-top: -490px !important;
+        margin-left: -280px !important;
+    }
+    .backimg img{
+        margin-top: -621px !important;
+        margin-right: -200px !important;
+        height: 460px !important;
+        width: 460px !important;
+    }
+    .backimg .leaf{
+        height: 70px !important;
+        width: 50px !important;
+        margin-top: -1120px !important;
+    }
+    .backimg .leaf2{
+        height: 70px !important;
+        width: 50px !important;
+        margin-left: 800px !important;
+        margin-top: -590px !important;
+     
+    }
+    .backimg .pasta{
+        height: 70px !important;
+        width: 60px !important;
+        margin-top: -1200px !important;
+        margin-left: 460px !important;
+    }
+    .backimg .tomato{
+        height: 60px !important;
+        width: 60px !important;
+        margin-left: 200px !important;
+        margin-top: -400px !important;
+    }
+    .backimg .last img{ 
+        margin-top: -350px !important;
+        margin-left: -280px !important;
+    }
+    .choose .heading h1{
+        margin-left: 220px !important;
+        width: 400px;
+    }
+    .choose .heading p{
+        margin-left: 30px !important;
+        width: 700px !important;
+    }
+    .choose img{
+        width: 260px !important;
+        margin-top: 230px !important;
+    }
+    .choose .menu .backmenu{
+        margin-top: 100px !important;
+        width: 760px !important;
+        height: 100px !important;
+    }
+    .choose .menu{
+        width: 887px;
+    }
+    .choose .menu .dish2{
+        margin-left: 0px;
+    }
+    .choose .menu .dish3{
+       margin-left: 0px;
+    }
+    .choose .menu .dish1 .pera {
+        width: 200px !important;
+        margin-left: 30px !important;
+    }
+    .choose .menu .dish2 .pera {
+        width: 200px !important;
+        margin-left: 30px !important;
+        margin-top: 10px !important;
+    }
+    .choose .menu .dish3 .pera {
+        width: 200px !important;
+        margin-left: 35px !important;
+    }
+    .choose .menu h5{
+        margin-left: -20px !important;
+    }
+    .choose .menu .dish2 h5{
+        margin-top: 10px !important;
+    }
+    .choose .menu button{ 
+        margin-left: 60px !important;
+    }
+    .upper h6{
+        margin-left: 230px !important;
+    }
+    .upper h2{
+        margin-left: 170px;
+        width: 450px;
+    }
+    .upper p{
+        width: 700px !important;
+        margin-left: 40px !important;
+    }
+    .slide{
+        height: 500px;
+        display: flex !important;
+    }
+    .slide img{
+        height: 270px !important;
+        width: 250px !important;
+    }
+    .slide .s1{
+        height: 400px !important;
+        margin-top: -320px !important;
+        width: 430px !important;
+        position: absolute;
+        margin-left: 180px !important;
+    }
+    .slide .s3{
+        margin-top: -260px;
+        margin-left: 510px;
+    }
+    .slide button{
+        margin-top: -80px;
+    }
+    .tryit{
+        display: flex;
+        width: 750px;
+    }
+    .most_popular{
+        display: flex;
+        margin-top: 40px !important;
+    }
+    .most_popular .popular1 img{
+        height: 348px !important;
+        width: 10000px !important;
+        margin-top: 0px !important;
+        margin-left: 10px !important;
+    }
+    .most_popular .popular1 p{
+        top: 2230px !important;
+        left: 40px !important;
+        font-size: 25px !important;
+    }
+    .most_popular .popular1 h2{
+        top: 2260px !important;
+        left: 40px !important;
+        font-size: 30px !important;
+    }
+    .most_popular .popular2 img{
+        margin-top: 5px !important;
+        margin-left: 30px !important;
+        height: 160px;
+        position: absolute;
+        width: 350px !important;
+    }
+    .most_popular .popular2 p{
+        top: 2220px !important;
+        left: 430px !important;
+        width: 200px !important;
+        font-size: 25px !important;
+    }
+    .most_popular .popular2 h3{
+        top: 2250px !important;
+        left: 432px !important;
+        font-size: 30px !important;
+    }
+    .most_popular .popular3 img{
+        margin-top: 180px !important;
+        margin-left: 30px !important;
+        width: 350px;
+        height: 170px;
+    }
+    .most_popular .popular3 p{
+        top: 2400px !important;
+        left: 430px !important;
+        width: 200px;
+        font-size: 25px !important;
+    }
+    .most_popular .popular3 h3{
+        top: 2430px !important;
+        left: 430px !important;
+        font-size: 30px !important;
+    }
+    .reservation h6{
+        margin-left: 250px;
+    }
+    .reservation h2{
+        margin-left: 50px;
+        width: 700px;
+    }
+    .reservation button{
+        width: 340px !important;
+        margin-left: -250px;
+    }
+    .reservation .endtab{
+        margin-left: 650px;
+        width: 0px;
+        margin-top: -205px;
+    }
+    .reservation .starttab{
+        margin-left: -10px !important;
+        width: 350px !important;
+    }
+    .reservation input{
+        height: 20px;
+        width: 340px;
+        font-size: 17px;
+        margin-left: -250px;
+    }
+    .footimg{
+        width: 760px;
+    }
+    .footimg .left img{
+        height: 55px !important;
+        width: 200px !important;
+        margin-top: -570px !important;
+        margin-left: 30px !important;
+    }
+    .footimg .left p{
+        margin-top: -250px !important;
+        width: 400px !important;
+        margin-left: 30px !important;
+    }
+    .footimg .left h6{
+        margin-top: 40px !important;
+        margin-left: 30px !important;
+    }
+    .right{
+        display: flex;
+        margin-top: -260px !important;
+        margin-left: 510px !important;
+
+    }
+    .right2{
+        display: flex;
+        margin-left: 510px !important;
+        margin-top: -5px !important;
+    }
+    .insta{
+        margin-top: 110px !important;
+        margin-left: 580px !important;
+     }
+    .face{
+        margin-left: 620px !important;
+        margin-top: -30px !important;
+     }
+    .twitter{ 
+        margin-left: 660px !important;
+        margin-top: -30px;
+     }
+    .whatsapp{
+        margin-left: 700px !important;
+        margin-top: -28px;
+     }
+}
+
+
+@media only screen and (min-width: 768px) and (max-width:1074px){ 
+    .navigation img{
+        margin-top: 60px !important;  
+    }
+    .yellowback img{
+        height: 754px !important;
+        margin-top: -358px !important;
+    }
+    .navigation button{
+        margin-top:  -30px !important;
+        margin-left: 750px !important;
+    }
+    .background{
+        width: 910px !important;
+    }
+    .greyback img{
+       margin-left: 80px !important;
+       margin-top: -106px;
+       width: 290px;
+    }
+    .mymenu a{
+        font-size: 20px !important; 
+        margin-left: 20px;
+    }
+    .mymenu ul{
+        margin-top: -40px !important;
+    }
+    .express{
+        display: none !important;
+    }
+    .mid-text .t1{
+        margin-left: 110px !important;
+        font-size: 40px !important;
+        margin-top: -480px !important;
+    }
+    .mid-text .t2{
+        font-size: 62px !important;
+        margin-top: -430px !important;
+    }
+    .mid-text .t3{
+        font-size: 20px !important;
+        margin-top: -350px !important;
+        margin-left: 60px !important; 
+    }
+    .mid-text img{
+        margin-top: -650px !important;
+        margin-left: 70px;
+        width: 330px;
+    }
+    .mid-text .t4{
+        margin-top: -285px !important;
+        margin-left: 100px !important;
+        width: 150px !important;
+    }
+    .mid-text .t5{
+        margin-left: 235px !important;
+        margin-top: -300px !important;
+        width: 90px !important;
+    }
+    .mid-text button{
+        margin-top: -420px !important;
+        margin-left: -280px !important;
+    }
+    .backimg img{
+        left: 56%;
+        top: 120%;
+        position: absolute;
+        height: 450px !important;
+        width: 450px !important;
+    }
+    .backimg .leaf{
+        height: 60px !important;
+        width: 40px !important;
+        margin-top: -75% !important;
+        margin-left: -48% !important;
+    }
+    .backimg .leaf2{
+        height: 60px !important;
+        width: 40px !important;
+        margin-left: 40% !important;
+        margin-top: -35% !important;
+     
+    }
+    .backimg .pasta{
+        height: 60px !important;
+        width: 50px !important;
+        margin-top: -75% !important;
+        margin-left: 10% !important;
+    }
+    .backimg .tomato{
+        height: 50px !important;
+        width: 50px !important;
+        margin-left: 5% !important;
+        margin-top: -30% !important;
+    }
+    .backimg .last img{ 
+        margin-top: -330px !important;
+        margin-left: -87% !important;
+    }
+    .choose .heading h1{
+        margin-left: 240px !important;
+        width: 400px;
+        margin-top: 10% !important;
+    }
+    .choose .heading p{
+        margin-left: 40px !important;
+        width: 800px !important;
+    }
+    .choose img{
+        width: 305px !important;
+        margin-top: 230px !important;
+    }
+    .choose .menu .backmenu{
+        margin-top: 100px !important;
+        width: 890px !important;
+        height: 100px !important;
+    }
+    .choose .menu{
+        width: 900px;
+    }
+    .choose .menu .dish2{
+        margin-left: 20px;
+    }
+    .choose .menu .dish3{
+       margin-left: 10px;
+    }
+    .choose .menu .dish1 .pera {
+        width: 200px !important;
+        margin-left: 30px !important;
+    }
+    .choose .menu .dish2 .pera {
+        width: 200px !important;
+        margin-left: 30px !important;
+        margin-top: 10px !important;
+    }
+    .choose .menu .dish3 .pera {
+        width: 200px !important;
+        margin-left: 35px !important;
+    }
+    .choose .menu h5{
+        margin-left: -20px !important;
+    }
+    .choose .menu .dish2 h5{
+        margin-top: 10px !important;
+    }
+    .choose .menu button{ 
+        margin-left: 60px !important;
+    }
+    .upper h6{
+        margin-left: 150px !important;
+    }
+    .upper h2{
+        margin-left: 220px;
+        width: 450px;
+    }
+    .upper p{
+        width: 800px !important;
+        margin-left: 40px !important;
+    }
+    .slide{
+        height: 500px;
+        display: flex !important;
+    }
+    .slide img{
+        height: 270px !important;
+        width: 280px !important;
+    }
+    .slide .s1{
+        height: 400px !important;
+        margin-top: -320px !important;
+        width: 430px !important;
+        position: absolute;
+        margin-left: 240px !important;
+    }
+    .slide .s3{
+        margin-top: -260px;
+        margin-left: 610px;
+    }
+    .slide button{
+        margin-top: -80px;
+    }
+    .tryit{
+        display: flex;
+        width: 800px;
+    }
+    .most_popular{
+        display: flex;
+        margin-top: 40px !important;
+    }
+    .most_popular .popular1 img{
+        height: 348px !important;
+        width: 10000px !important;
+        margin-top: 0px !important;
+        margin-left: 10px !important;
+    }
+    .most_popular .popular1 p{
+        top: 2200px !important;
+        left: 40px !important;
+        font-size: 25px !important;
+    }
+    .most_popular .popular1 h2{
+        top: 2230px !important;
+        left: 40px !important;
+        font-size: 35px !important;
+    }
+    .most_popular .popular2 img{
+        margin-top: 5px !important;
+        margin-left: 30px !important;
+        height: 160px;
+        position: absolute;
+        width: 380px !important;
+    }
+    .most_popular .popular2 p{
+        top: 2200px !important;
+        left: 510px !important;
+        width: 200px !important;
+        font-size: 25px !important;
+    }
+    .most_popular .popular2 h3{
+        top: 2235px !important;
+        left: 510px !important;
+        width: 200px !important;
+        font-size: 25px !important;
+    }
+    .most_popular .popular3 img{
+        margin-top: 180px !important;
+        margin-left: 30px !important;
+        margin-right: -60px;
+        width: 380px;
+        height: 170px;
+    }
+    .most_popular .popular3 p{
+        top: 2370px !important;
+        left: 510px !important;
+        width: 200px;
+        font-size: 25px !important;
+    }
+    .most_popular .popular3 h3{
+        top: 2410px !important;
+        left: 510px !important;
+        font-size: 25px !important;
+    }
+    .reservation h6{
+        margin-left: 190px;
+    }
+    .reservation h2{
+        margin-left: 90px;
+        width: 700px;
+    }
+    .reservation button{
+        width: 300px !important;
+        margin-left: -240px;
+    }
+    .reservation .endtab{
+        margin-left: 690px;
+        width: 0px;
+        margin-top: -205px;
+    }
+    .reservation .starttab{
+        margin-left: -20px !important;
+        width: 350px !important;
+    }
+    .reservation input{
+        height: 20px;
+        width: 300px;
+        font-size: 17px;
+        margin-left: -240px;
+    }
+    .footimg{
+        width: 890px;
+    }
+    .footimg .left img{
+        height: 55px !important;
+        width: 200px !important;
+        margin-top: -680px !important;
+        margin-left: 80px;
+    }
+    .footimg .left p{
+        margin-top: -290px !important;
+        width: 400px !important;
+    }
+    .footimg .left h6{
+        margin-top: 60px !important;
+    }
+    .right{
+        display: flex;
+        margin-top: -260px !important;
+        margin-left: 560px !important;
+
+    }
+    .right2{
+        display: flex;
+        margin-left: 560px !important;
+        margin-top: -5px !important;
+    }
+    .insta{
+        margin-top: 110px !important;
+        margin-left: 660px !important;
+     }
+    .face{
+        margin-left: 700px !important;
+        margin-top: -30px !important;
+     }
+    .twitter{ 
+        margin-left: 740px !important;
+        margin-top: -30px;
+     }
+    .whatsapp{
+        margin-left: 780px !important;
+        margin-top: -28px;
+     }
+}
+
+
+@media only screen and (min-width :900px) and (max-width:1074px){
+    .navigation img{
+        margin-top: 60px !important;  
+    }
+    .yellowback img{
+        height: 754px !important;
+        margin-top: -358px !important;
+    }
+    .navigation button{
+        margin-top:  -30px !important;
+        margin-left: 820px !important;
+    }
+    .background{
+        width: 950px !important;
+    }
+    .greyback img{
+       margin-left: 80px !important;
+       margin-top: -106px;
+       width: 290px;
+    }
+    .mymenu a{
+        font-size: 20px !important; 
+        margin-left: 20px;
+    }
+    .mymenu ul{
+        margin-top: -40px !important;
+    }
+    .express{
+        display: none !important;
+    }
+    .mid-text .t1{
+        margin-left: 110px !important;
+        font-size: 40px !important;
+        margin-top: -480px !important;
+    }
+    .mid-text .t2{
+        font-size: 62px !important;
+        margin-top: -430px !important;
+    }
+    .mid-text .t3{
+        font-size: 20px !important;
+        margin-top: -350px !important;
+        margin-left: 60px !important; 
+    }
+    .mid-text img{
+        margin-top: -650px !important;
+        margin-left: 70px;
+        width: 330px;
+    }
+    .mid-text .t4{
+        margin-top: -285px !important;
+        margin-left: 100px !important;
+        width: 150px !important;
+    }
+    .mid-text .t5{
+        margin-left: 235px !important;
+        margin-top: -300px !important;
+        width: 90px !important;
+    }
+    .mid-text button{
+        margin-top: -420px !important;
+        margin-left: -280px !important;
+    }
+    .backimg img{
+        left: 54%;
+        top: 120%;
+        position: absolute;
+        height: 450px !important;
+        width: 450px !important;
+    }
+    .backimg .leaf{
+        height: 60px !important;
+        width: 40px !important;
+        margin-top: -63% !important;
+        margin-left: -48% !important;
+    }
+    .backimg .leaf2{
+        height: 60px !important;
+        width: 40px !important;
+        margin-left: 35% !important;
+        margin-top: -33% !important;
+     
+    }
+    .backimg .pasta{
+        height: 60px !important;
+        width: 50px !important;
+        margin-top: -65% !important;
+        margin-left: 8% !important;
+    }
+    .backimg .tomato{
+        height: 50px !important;
+        width: 50px !important;
+        margin-left: 5% !important;
+        margin-top: -28% !important;
+    }
+    .backimg .last img{ 
+        margin-top: -330px !important;
+        margin-left: -83% !important;
+    }
+    .choose .heading h1{
+        margin-left: 33% !important;
+        width: 400px;
+        margin-top: 10% !important;
+    }
+    .choose .heading p{
+        margin-left: 50px !important;
+        width: 830px !important;
+    }
+    .choose img{
+        width: 305px !important;
+        margin-top: 230px !important;
+    }
+    .choose .menu .backmenu{
+        margin-top: 100px !important;
+        width: 920px !important;
+        height: 100px !important;
+    }
+    .choose .menu{
+        width: 930px;
+    }
+    .choose .menu .dish2{
+        margin-left: 50px;
+    }
+    .choose .menu .dish3{
+       margin-left: 50px;
+    }
+    .choose .menu .dish1 .pera {
+        width: 200px !important;
+        margin-left: 30px !important;
+    }
+    .choose .menu .dish2 .pera {
+        width: 200px !important;
+        margin-left: 30px !important;
+        margin-top: 10px !important;
+    }
+    .choose .menu .dish3 .pera {
+        width: 200px !important;
+        margin-left: 35px !important;
+    }
+    .choose .menu h5{
+        margin-left: -20px !important;
+    }
+    .choose .menu .dish2 h5{
+        margin-top: 10px !important;
+    }
+    .choose .menu button{ 
+        margin-left: 60px !important;
+    }
+    .upper h6{
+        margin-left: 5% !important;
+    }
+    .upper h2{
+        margin-left: 240px;
+        width: 450px;
+    }
+    .upper p{
+        width: 830px !important;
+        margin-left: 40px !important;
+    }
+    .slide{
+        height: 500px;
+        display: flex !important;
+        margin-left: 1%;
+    }
+    .slide img{
+        height: 270px !important;
+        width: 280px !important;
+    }
+    .slide .s1{
+        height: 400px !important;
+        margin-top: -320px !important;
+        width: 430px !important;
+        position: absolute;
+        margin-left: 240px !important;
+    }
+    .slide .s3{
+        margin-top: -260px;
+        margin-left: 610px;
+    }
+    .slide button{
+        margin-top: -90px;
+    }
+    .tryit{
+        display: flex;
+        width: 800px;
+        margin-left: 3%;
+    }
+    .most_popular{
+        display: flex;
+        margin-top: 40px !important;
+    }
+    .most_popular .popular1 img{
+        height: 348px !important;
+        width: 10000px !important;
+        margin-top: 0px !important;
+        margin-left: 10px !important;
+    }
+    .most_popular .popular1 p{
+        top: 2200px !important;
+        left: 70px !important;
+        font-size: 25px !important;
+    }
+    .most_popular .popular1 h2{
+        top: 2230px !important;
+        left: 70px !important;
+        font-size: 35px !important;
+    }
+    .most_popular .popular2 img{
+        margin-top: 5px !important;
+        margin-left: 30px !important;
+        height: 160px;
+        position: absolute;
+        width: 380px !important;
+    }
+    .most_popular .popular2 p{
+        top: 2200px !important;
+        left: 530px !important;
+        width: 200px !important;
+        font-size: 25px !important;
+    }
+    .most_popular .popular2 h3{
+        top: 2235px !important;
+        left: 530px !important;
+        width: 200px !important;
+        font-size: 25px !important;
+    }
+    .most_popular .popular3 img{
+        margin-top: 180px !important;
+        margin-left: 30px !important;
+        margin-right: -60px;
+        width: 380px;
+        height: 170px;
+    }
+    .most_popular .popular3 p{
+        top: 2370px !important;
+        left: 530px !important;
+        width: 200px;
+        font-size: 25px !important;
+    }
+    .most_popular .popular3 h3{
+        top: 2410px !important;
+        left: 530px !important;
+        font-size: 25px !important;
+    }
+    .reservation h6{
+        margin-left: 9%;
+    }
+    .reservation h2{
+        margin-left: 110px;
+        width: 700px;
+    }
+    .reservation button{
+        width: 350px !important;
+        margin-left: -20%;
+    }
+    .reservation .endtab{
+        margin-left: 16%;
+        width: 0px;
+        margin-top: 1.5%;
+    }
+    .reservation .starttab1{
+        margin-left: 35% !important;
+    }
+    .reservation input{
+        width: 350px;
+        font-size: 17px;
+        margin-left: -35px;
+    }
+    .footimg{
+        width: 925px;
+    }
+    .footimg .left img{
+        height: 55px !important;
+        width: 200px !important;
+        margin-top: -680px !important;
+        margin-left: 80px;
+    }
+    .footimg .left p{
+        margin-top: -290px !important;
+        width: 400px !important;
+    }
+    .footimg .left h6{
+        margin-top: 60px !important;
+    }
+    .right{
+        display: flex;
+        margin-top: -260px !important;
+        margin-left: 560px !important;
+
+    }
+    .right2{
+        display: flex;
+        margin-left: 560px !important;
+        margin-top: -5px !important;
+    }
+    .insta{
+        margin-top: 110px !important;
+        margin-left: 660px !important;
+     }
+    .face{
+        margin-left: 700px !important;
+        margin-top: -30px !important;
+     }
+    .twitter{ 
+        margin-left: 740px !important;
+        margin-top: -30px;
+     }
+    .whatsapp{
+        margin-left: 780px !important;
+        margin-top: -28px;
+     }
+}
+
+@media only screen and (min-width :1074px) and (max-width: 1200px){
+.navigation img{
+    margin-top: -150px !important;  
+}
+.yellowback img{
+    height: 554px !important;
+    margin-top: -315px !important;
+    width: 100%;
+}
+.navigation button{
+    margin-top:  -30px !important;
+    margin-left: 750px !important;
+}
+.background{
+    width: 1275px !important;
+}
+.greyback img{
+   margin-left: 50px !important;
+   margin-top: -106px;
+   width: 420px !important;
+}
+.mymenu a{
+    font-size: 20px !important; 
+    margin-left: 10px !important;
+    margin-top: 5% !important;
+}
+.mymenu li{
+    margin-left: 5.5% !important;
+    padding: 00% !important;
+}
+.express{
+    display: visible !important;
+}
+.express img{
+    margin-top: -11% !important;
+    margin-left: 102% !important;
+}
+.express .ex1{
+    margin-left: 86.5% !important;
+    width: 15%;
+}
+.express .ex2{
+    width: 18%;
+    margin-left: 85% !important; 
+}
+.mid-text .t1{
+    margin-left: 110px !important;
+    font-size: 40px !important;
+    margin-top: -370px !important;
+}
+.mid-text .t2{
+    font-size: 62px !important;
+    margin-top: -330px !important;
+}
+.mid-text .t3{
+    font-size: 20px !important;
+    margin-top: -260px !important;
+    margin-left: 60px !important; 
+}
+.mid-text img{
+    margin-top: -480px !important;
+    margin-left: 70px;
+    width: 330px;
+}
+.mid-text .t4{
+    margin-top: -205px !important;
+    margin-left: 100px !important;
+    width: 200px !important;
+}
+.mid-text .t5{
+    margin-left: 265px !important;
+    margin-top: -220px !important;
+    width: 90px !important;
+    font-size: 3.5rem !important;
+}
+.mid-text button{
+    margin-top: -230px !important;
+    margin-left: -250px !important;
+}
+.backimg img{
+    left: 55%;
+    top: 125%;
+    position: absolute;
+    height: 480px !important;
+    width: 480px !important;
+}
+.backimg .leaf{
+    height: 60px !important;
+    width: 40px !important;
+    margin-top: -45% !important;
+    margin-left: -50% !important;
+}
+.backimg .leaf2{
+    height: 60px !important;
+    width: 40px !important;
+    margin-left: 30% !important;
+    margin-top: -25% !important;
+ 
+}
+.backimg .pasta{
+    height: 60px !important;
+    width: 50px !important;
+    margin-top: -43% !important;
+    margin-left: -10% !important;
+}
+.backimg .tomato{
+    height: 50px !important;
+    width: 50px !important;
+    margin-left: -5% !important;
+    margin-top: -22% !important;
+}
+.backimg .last img{ 
+    margin-top: -390px !important;
+    margin-left: -77% !important;
+}
+.choose .heading h1{
+    margin-left: 300px !important;
+    width: 700px;
+    font-size: 4rem !important;
+    margin-top: 10% !important;
+}
+.choose .heading p{
+    margin-left: 20px !important;
+    font-size: 1.3rem !important;
+    width: 1200px !important;
+}
+.choose img{
+    width: 405px !important;
+    margin-top: 190px !important;
+}
+.choose .menu .backmenu{
+    margin-top: 120px !important;
+    width: 1250px !important;
+    height: 100px !important;
+}
+.choose .menu{
+    width: 1260px;
+}
+.choose .menu .dish2{
+    margin-left: 20px;
+}
+.choose .menu .dish3{
+   margin-left: 20px;
+}
+.choose .menu .dish1 .pera {
+    width: 300px !important;
+    font-size: 1.2rem !important;
+    margin-left: 40px !important;
+}
+.choose .menu .dish2 .pera {
+    width: 300px !important;
+    margin-left: 40px !important;
+    font-size: 1.2rem;
+    margin-top: 10px !important;
+}
+.choose .menu .dish3 .pera {
+    width: 300px !important;
+    font-size: 1.2rem;
+    margin-left: 40px !important;
+}
+.choose .menu h5{
+    margin-left: -20px !important;
+    font-size: 1.5rem !important;
+}
+.choose .menu .dish2 h5{
+    margin-top: 10px !important;
+}
+.choose .menu button{ 
+    margin-left: 120px !important;
+}
+.upper h6{
+    margin-left: 130px !important;
+    font-size: 1.8rem !important;
+}
+.upper h2{
+    margin-left: 300px;
+    width: 650px;
+    font-size: 4rem !important;
+}
+.upper p{
+    width: 1200px !important;
+    margin-left: 20px !important;
+    font-size: 1.3rem !important;
+}
+.slide{
+    height: 500px;
+    display: flex !important;
+    width: 1200px;
+    margin-left: 0.8%;
+}
+.slide img{
+    height: 360px !important;
+    width: 360px !important;
+}
+.slide .s1{
+    height: 500px !important;
+    margin-top: -50px !important;
+    width: 600px !important;
+    position: absolute;
+    margin-left: -100px !important;
+}
+.slide .s3{
+    margin-top: 0px;
+    margin-left: 40px;
+    width: 360px;
+}
+.slide button{
+    margin-top: -70px;
+}
+.tryit{
+    display: flex;
+    width: 800px;
+    height: 400px;
+    margin-left: 5%;
+}
+.most_popular{
+    display: flex;
+    margin-top: 40px !important;
+}
+.most_popular .popular1 img{
+    height: 418px !important;
+    width: 10000px !important;
+    margin-top: 0px !important;
+    margin-left: 10px !important;
+}
+.most_popular .popular1 p{
+    top: 2350px !important;
+    left: 110px !important;
+    font-size: 35px !important;
+    
+}
+.most_popular .popular1 h2{
+    top: 2390px !important;
+    left: 110px !important;
+    font-size: 45px !important;
+}
+.most_popular .popular2 img{
+    margin-top: 5px !important;
+    margin-left: 30px !important;
+    height: 200px;
+    position: absolute;
+    width: 470px !important;
+}
+.most_popular .popular2 p{
+    top: 2350px !important;
+    left: 730px !important;
+    width: 200px !important;
+    font-size: 25px !important;
+}
+.most_popular .popular2 h3{
+    top: 2380px !important;
+    left: 730px !important;
+    width: 200px !important;
+    font-size: 25px !important;
+}
+.most_popular .popular3 img{
+    margin-top: 220px !important;
+    margin-left: 30px !important;
+    margin-right: -290px;
+    width: 470px;
+    height: 200px;
+}
+.most_popular .popular3 p{
+    top: 2550px !important;
+    left: 730px !important;
+    width: 200px;
+    font-size: 25px !important;
+}
+.most_popular .popular3 h3{
+    top: 2580px !important;
+    left: 730px !important;
+    font-size: 25px !important;
+}
+.reservation h6{
+    margin-left: 180px;
+    margin-top: 15% !important;
+    font-size: 1.8rem !important;
+}
+.reservation h2{
+    margin-left: 25%;
+    width: 700px;
+    font-size: 4rem !important;
+}
+.reservation button{
+    width: 400px !important;
+    margin-left: -10px;
+}
+.reservation .endtab{
+    margin-left: 190px;
+    width: 0px;
+    margin-top: 15px;
+}
+.reservation .starttab{
+    margin-left: -20px !important;
+    width: 350px !important;
+}
+.reservation input{
+    height: 20px;
+    width: 400px;
+    font-size: 20px;
+    margin-left: -10px;
+}
+.footimg{
+    width: 1250px;
+}
+.footimg .left img{
+    height: 65px !important;
+    width: 250px !important;
+    margin-top: -940px !important;
+    margin-left: 80px;
+}
+.footimg .left p{
+    margin-top: -350px !important;
+    width: 550px !important;
+    font-size: 1.3rem !important;
+}
+.footimg .left h6{
+    margin-top: 100px !important;
+    font-size: 1.3rem;
+}
+.right{
+    display: flex;
+    margin-top: -300px !important;
+    margin-left: 790px !important;
+    font-size: 1.3rem;
+
+}
+.right2{
+    display: flex;
+    margin-left: 790px !important;
+    font-size: 1.3rem;
+    margin-top: -5px !important;
+}
+.insta{
+    margin-top: 140px !important;
+    margin-left: 930px !important;
+ }
+.face{
+    margin-left: 980px !important;
+    margin-top: -30px !important;
+ }
+.twitter{ 
+    margin-left: 1030px !important;
+    margin-top: -30px;
+ }
+.whatsapp{
+    margin-left: 1080px !important;
+    margin-top: 18px;
+ }
+}
+
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.navigation img{
+   margin-top: -160px;
+   margin-left: 10px;
+   width: 180px;
+}
+.navigation{
+    margin-top: -40px;
+}
+.navigation button{
+    border: 2px solid gray;
+}
+.yellowback img{
+    height: 624px;
+    margin-top: -268px;
+}
+.greyback img{
+    height: 824px;
+    margin-top: -824px;
+    margin-left: 735px;
+}
+@font-face {
+    font-family: Montserrat-Regular;
+    src: url(Images/Montserrat-Regular.ttf);
+}
+@font-face {
+    font-family: Montserrat-Bold;
+    src: url(Images/Montserrat-Bold.ttf);
+}
+.mymenu a{
+    font-family: Montserrat-Bold;
+    font-size: 20px;
+    color: black; 
+}
+.mymenu a{
+    margin-top: -10px;
+}
+.express .ex1{
+    font-family: Montserrat-Bold;
+    font-size: 17px;
+    margin-left: 1067px;
+    margin-top: 40px;
+
+}
+.express .ex2{
+    font-family: Montserrat-Bold;
+    margin-left: 1050px;
+    margin-top: -28px; 
+}
+.express img{
+    margin-left: 1250px;
+    margin-top: -130px;
+}
+@font-face {
+    font-family: fredericka;
+    src: url(Images/frederickathegreat-regular.ttf);
+}
+@font-face {
+    font-family: Gabelisa;
+    src: url(Images/Gabelisa\ Font\ by\ Keithzo\ \(7NTypes\).otf);
+}
+.mid-text .t1{
+    margin-top: -470px;
+    font-family: Gabelisa;
+    margin-left: 120px;
+    font-size: 50px;
+}
+.mid-text .t2{
+    font-family: fredericka;
+    font-size: 82px;
+    margin-top: -400px;
+    margin-left: 40px;
+}
+.mid-text .t3{
+    font-size: 27px;
+    font-family: Montserrat-Bold;
+    margin-top: -280px;
+    margin-left: 75px; 
+}
+.mid-text img{
+    margin-top: -480px;
+    margin-left: 70px;
+}
+.mid-text .t4{
+    font-family: fredericka;
+    font-size: 15px;
+    width: 150px;
+    margin-top: -200px;
+    margin-left: 150px;
+    
+}
+.mid-text .t5{
+    font-family: fredericka;
+    font-size: 47px;
+    margin-left: 270px;
+    margin-top: -238px;
+}
+.mid-text button{
+    margin-top: -250px;
+    margin-left: -370px;
+    border: 1px solid black;
+    border-radius: 0;
+    width: 180px;
+    font-family: Montserrat-Bold;
+}
+.backimg img{
+    margin-top: -621px;
+    margin-right: 220px;
+    height: 630px;
+    width: 630px;
+    /* background-color: aqua; */
+}
+.backimg .leaf{
+    height: 70px;
+    width: 50px;
+    margin-top: -980px;
+    margin-left: 40px;
+ 
+}
+.backimg .leaf2{
+    height: 70px;
+    width: 50px;
+    margin-left: 950px;
+    margin-top: -380px;
+ 
+}
+.backimg .pasta{
+    height: 70px;
+    width: 60px;
+    margin-top: -1070px;
+    margin-left: 570px;
+}
+.backimg .tomato{
+    height: 60px;
+    width: 60px;
+    margin-left: 570px;
+    margin-top: -370px;
+}
+.backimg .last img{
+    height: 320px;
+    width: 320px;  
+    margin-top: -280px;
+    margin-left: -190px;
+}
+.choose .heading h1{
+    font-family: fredericka;
+    font-size: 40px;
+    margin-top: -90px;
+}
+.choose .heading p{
+    width: 1100px;
+    margin-left: 100px;
+    font-size: 17px;
+    font-family: Montserrat-Regular;
+}
+.choose .menu img{
+    margin-top: 130px;
+    width: 100%;  
+}
+.choose .menu .dish1{
+    margin-top: -400px;
+}
+.choose .menu .dish2{
+    margin-top: -400px;
+}
+.choose .menu .dish3{
+    margin-top: -400px;
+}
+.choose .menu p{
+    width: 400px;
+    margin-left: 20px;
+    font-size: 17px;
+    font-family: Montserrat-Regular;
+}
+.choose .menu h5{
+    font-size: 20px;
+    font-family:  Montserrat-Bold;
+}
+.choose .menu button{ 
+    border-radius: 0;
+    font-family: Montserrat-Bold;
+    margin-left: 150px;
+}
+.upper h6{
+    font-family: Montserrat-Bold;
+    font-size: 20px;
+}
+.upper h2{
+    font-family: fredericka;
+    font-size: 40px;
+}
+.upper p{
+    font-size: 17px;
+    width: 950px;
+    margin-left: 180px;
+}
+.upper{
+    margin-top: 120px;
+}
+.slide{
+    height: 500px;
+    /* background-color: aqua; */
+    position: relative;
+}
+.slide img{
+    height: 400px;
+    width: 400px;
+}
+.slide .s1{
+    height: 550px;
+    margin-top: -60px;
+    width: 600px;
+    margin-left: -96px;
+}
+.most_popular{
+    display: flex;
+    margin-top: 50px;
+}
+.most_popular .popular1 img{
+    height: 418px;
+    width: 600px;
+    margin-top: 20px;
+    margin-left: 50px;
+}
+.most_popular .popular1 p{
+    color: white;
+    position: absolute;
+    top: 2280px;
+    left: 100px;
+    font-family:  Montserrat-Bold;
+    font-size: 25px;
+}
+.most_popular .popular1 h2{
+    color: white;
+    position: absolute;
+    top: 2310px;
+    left: 100px;
+    font-family:  Montserrat-Bold;
+    font-size: 42px;
+    width: 50px;
+}
+.most_popular .popular2 img{
+    margin-top: 20px;
+    margin-left: 30px;
+}
+.most_popular .popular2 p{
+    color: white;
+    position: absolute;
+    top: 2260px;
+    left: 720px;
+    font-family:  Montserrat-Bold;
+    font-size: 25px;
+}
+.most_popular .popular2 h3{
+    color: white;
+    position: absolute;
+    top: 2290px;
+    left: 722px;
+    font-family: Montserrat-Bold;
+    font-size: 33px;
+    width: 250px;
+}
+.most_popular .popular3 img{
+    margin-top: 246px;
+    margin-left: -595px;
+}
+.most_popular .popular3 p{
+    color: white;
+    position: absolute;
+    top: 2480px;
+    left: 720px;
+    font-family:  Montserrat-Bold;
+    font-size: 25px;
+}
+.most_popular .popular3 h3{
+    color: white;
+    position: absolute;
+    top: 2510px;
+    left: 720px;
+    font-family:  Montserrat-Bold;
+    font-size: 33px;
+    width: 250px;
+}
+.reservation h6{
+    font-size: 21px;
+    margin-top: 60px;
+    text-align: center;
+    font-family:  Montserrat-Bold;
+}
+.reservation h2{
+    font-family: fredericka;
+    font-size: 50px;
+    text-align: center;
+}
+.reservation button{
+    font-family: Montserrat-Bold;
+    border-radius: 0px;
+    width: 315px;
+    height: 59px;
+}
+.reservation input{
+    height: 20px;
+}
+.footimg{
+    margin-top: 100px;
+}
+.footimg .left img{
+    height: 75px;
+    width: 300px;
+    margin-top: -900px;
+    margin-left: 80px;
+}
+.footimg .left p{
+    margin-top: -330px;
+    color: white;
+    font-size: 17px;
+    font-family: Montserrat-Regular;
+    width: 570px;
+    margin-left: 80px;
+}
+.footimg .left h6{
+    color: white;
+    margin-left: 80px;
+    margin-top: 120px;
+}
+.right{
+    display: flex;
+    margin-top: -300px;
+    margin-left: 900px;
+}
+.right img{
+    height: 25px;
+}
+.right p{
+    color: white;
+    margin-left: 15px;
+}
+.right2{
+    display: flex;
+    margin-left: 900px;
+}
+.right2 img{
+    height: 20px;
+}
+.right2 p{
+    color: white;
+    margin-left: 15px;
+}
+.insta{
+    margin-top: 120px;
+    margin-left: 1000px;
+ }
+.face{
+    margin-left: 1050px;
+    margin-top: -30px;
+ }
+.twitter{ 
+    margin-left: 1100px;
+    margin-top: -30px;
+ }
+.whatsapp{
+    margin-left: 1150px;
+    margin-top: -28px;
+ }

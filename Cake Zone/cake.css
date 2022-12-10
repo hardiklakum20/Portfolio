@@ -1,0 +1,5103 @@
+*{
+    box-sizing: border-box;
+}
+ @media only screen and (min-width:600px) and (max-width:1074px){
+    .email{
+        display: block  ;
+        width: 100% !important;
+    }
+    .cake{
+        /* display: block !important; */
+        width: 890px !important;
+        margin-left: 0px !important;
+    }
+    .cake>h1>a{
+        margin-left: 160px !important;
+        left: -150px !important;
+        padding: 20px 300px 20px 370px !important;
+        font-size: 35PX !important;
+    }
+    .cake i{
+        margin-left: 240px !important;
+    }
+    .call{
+        display: none;
+    }
+    .menu{
+        width: 890px !important;
+    }
+     .menu ul li a{
+       /* font-size: 12px !important; */
+       font-size: 20px !important;
+    } 
+   
+    .background-img{
+        height: 550px !important;
+        width: 890px;
+    }
+    .text{
+        top: 30px !important;
+        left: 30px !important;
+        font-size: 25px !important;
+    }
+    .czone{
+        font-size: 30px !important;
+        top: 80px !important;
+    }
+    .cake-london{
+        width: 490px !important;
+        height: 60px;
+        left: 0px !important; 
+        top: 90px !important;
+    
+    }
+    .button{
+        top: 20px !important;
+        width: 170px !important;
+        height: 70px !important;
+    }
+    .button a{
+        left: 16px !important;
+        font-size: 18px !important;
+    }
+    .btn-play{
+        top: 80px !important;  
+        left: 190px !important;
+    }
+    .cake-text{
+        left: 280px !important;
+        top: 220px !important;
+        font-size: 25px !important;
+    }
+    .about{
+        margin-top: -30px !important;
+        font-weight: 700 !important;
+        font-size: 50px !important;
+        margin-left: 0px !important;
+        width: 950px;
+       
+    }
+    .menu-text h3{
+        font-size: 40px !important;
+        height: 60px;
+    }
+    .menu-text h1{
+        font-size: 50px !important;
+        margin-top: -40px !important;
+        margin-left: -50px !important;
+    }
+    .menu-text hr{
+        margin-top: -22px !important;
+        margin-bottom: 16px !important; 
+    }
+    .about-img{
+      left: 60px !important;
+      top: 1000px !important;
+      width: 1000px !important;
+    }
+    .about-img img{
+        width: 790px !important;
+        height: 510px !important;
+    }
+    .about-text{
+        font-size: 28px !important;
+        width: 800px !important;
+        margin-left: -800px !important;
+        margin-top: 500px !important;
+    }
+    .about-text2{
+        font-size: 25px !important;
+        width: 700px !important;
+        margin-top: 20px !important;
+    }
+    .heart{
+        height: 130px !important;
+        width: 130px !important;
+        left: 10px !important;
+        top: 810px !important;
+    }
+    .award{
+        height: 130px !important;
+        width: 130px !important;
+        left: 400px !important;
+        top: 810px !important;
+    }
+    .heart-text{
+        margin-top: 930px !important;
+        margin-left: -800px !important;
+        font-size: 30px !important;
+    }
+    .heart-text p{
+        width: 300px !important;
+        font-size: 23px !important;
+        font-weight: 500!important;
+        margin-top: -22px;
+    }
+    .award-text{
+        margin-top: 930px !important;
+        width: 300px !important;
+        margin-left: 170px !important;
+        font-size: 30px !important;
+    }
+    .award-text p{
+        width: 300px !important;
+        font-size: 23px !important;
+        margin-top: -22px;
+    }
+    .heart i{
+        font-size: 48px !important;
+        padding: 30px !important;  
+    }
+    .award i{
+        font-size: 48px !important;
+        margin-left: 10px !important;
+        padding: 25px 35px 35px 35px !important;
+    }
+    .main{
+        width: 890px !important;
+        height: 940px !important;
+        display: block !important; 
+        margin-top: 1300px !important;
+    }
+    .in1{
+        height: 90px !important;
+        width: 90px !important;
+        padding: 40px !important;
+        margin-left: 70px !important;
+    }
+    .main h6{
+        width: 210px !important;
+        font-size: 23px !important;
+        margin-left: 80px !important;
+        margin-top: -80px !important;
+    }
+    .main .left1 h1{
+        margin-left: 80px !important;
+        margin-top: 320 !important;
+        top: 90px !important;
+        font-size: 60px !important;
+    }
+    .main i{
+        padding: 20px !important;
+        font-size: 28px !important;
+        margin-left: -32px !important;
+        margin-top: -32px !important;
+    }
+    .in2{
+        height: 90px !important;
+        width: 90px !important;
+        padding: 40px !important;
+        margin-left: 70px !important;
+    }
+    .main .left2 h1{
+        top: 280px !important;
+        font-size: 60px !important;
+        left: 130px !important;
+    }
+    .in3{
+        height: 90px !important;
+        width: 90px !important;
+        padding: 40px 20px 40px 43px !important;
+        margin-top: 100px !important;
+        margin-left: 70px !important;
+    }
+    .main .right1 h1{
+        top: 470px !important;
+        left: 130px !important;
+        font-size: 60px !important;
+    }
+    .main .right1 h6{
+        width: 250px !important;
+        top: 10px !important;
+    } 
+    .in4{
+        height: 90px !important;
+        width: 90px !important;
+       
+        padding: 40px 20px 40px 43px !important;
+        margin-top: 100px !important;
+        margin-left: 70px !important;
+    }
+    .main .right2 h1{
+        top: 660px !important;
+        left: 130px !important;
+        font-size: 60px !important;
+    }
+    .menu_pricing .menu-text h3{
+        width: 450px;
+        margin-left: 250px;
+    }
+    .menu_pricing .menu-text h1{
+        font-size: 45px !important;
+        width: 1050px;   
+    }
+    .menu-text hr{
+        margin-left: 400px;
+    }
+    .menu-text #ht{
+        margin-left: 450px;
+    }
+    .menu-design ul{
+        height: 120px !important;
+        width: 420px !important;
+        padding: 48px 0px 0px 0px !important;
+        margin-left: 250px;
+    } 
+    .menu-design li{
+        padding: 35px 20px 35px 20px !important;
+    }
+    .menu-design a{
+        font-size: 18px !important;
+    }
+    .main-menu{
+        width: 100%;
+        display: block !important;
+    }
+    .menu-left{
+        width: 100% !important;
+    }
+    .menu-right{
+        width: 100% !important;
+        margin-left: 90px !important; 
+        margin-top: -22px;
+    }
+    .left-img img{
+        height: 130px; 
+        margin-left: 50px !important;
+    }
+    .left-img h2{
+        width: 39% !important;
+        height: 70px !important;
+        padding-top: 20px !important; 
+        font-size: 30px;
+        margin-left: 50px !important;
+    }
+    .left-text{
+        height: 203px !important;
+        margin-top: -225px !important;
+        padding: 10px 10px 20px 10px !important;
+        font-size: 28px !important;
+        width: 540px !important;
+        margin-left: 280px !important;
+    }
+    .lt{
+        padding: 5px 5px 38px 8px !important;
+        border: 2px solid white !important;
+    }
+    .rt-image img{
+        height: 130px;
+        margin-left: 50px !important;
+        
+    }
+    .rt-image h2{
+        width: 34% !important;
+        height: 70px !important;
+        padding-top: 20px !important;
+        font-size: 30px; 
+        margin-left: 50px !important;
+    }
+    .rt-text{
+        height: 203px !important;
+        margin-top: -225px !important;
+        padding: 10px 10px 20px 10px !important;
+        font-size: 28px !important;
+        width: 540px !important;
+        margin-left: 280px !important;
+    }
+    .let{
+        padding: 5px 5px 38px 8px !important;
+        border: 2px solid white !important;
+    }
+    .service{
+        width: 890px !important;
+        height: 1450px !important;
+        display: block !important;
+    }
+    .birthday-cake{
+        width: 76% !important;
+        height: 370px !important;
+        left: 115px !important;
+        display: block !important;
+    }
+    .btc{
+        padding: 5px 22px 40px 22px !important;
+    }
+    .birthday-cake h3{
+        font-size: 35px !important;
+    }
+    .birthday-cake p{
+        font-size: 30px !important;
+        padding-bottom: 25px;
+    }
+    .birthday-cake a{
+        font-size: 30px !important;
+        margin-left: 220px !important;
+        margin-top: 260px !important;
+    }
+    .wedding-cake{
+        width: 76% !important;
+        height: 370px !important;
+        margin-top: 420px !important; 
+        left: -240px !important;
+    }
+    .wedding-cake h3{
+        font-size: 35px !important;
+    }
+    .wedding-cake p{
+        font-size: 30px !important;
+        padding-bottom: 25px;
+    }
+    .wedding-cake a{
+        font-size: 30px !important;
+        margin-left: 220px !important;
+    }
+    .custom-cake{
+        width: 76% !important;
+        height: 370px !important;
+        margin-top: 870px !important;
+        left: -640px !important;
+    }
+    .custom-cake h3{
+        font-size: 35px !important;
+    }
+    .custom-cake p{
+        font-size: 30px !important;
+        padding-bottom: 25px;
+    }
+    .custom-cake a{
+        font-size: 30px !important;
+        margin-left: 220px !important;
+    }
+    .discount h1{
+        margin-top: 1200px !important;
+        margin-left: 52px !important;
+        font-size: 42px !important;
+        position: absolute;
+        width: 790px;
+    }
+    .button2{
+        height: 80px !important;
+        width: 180px !important;
+        top: 1280px !important;
+        left: 370px !important;
+    }
+    .button2 a{
+        padding-top: 17px !important;
+        padding-bottom: 19px !important;      
+        font-size: 20px !important;
+        left: 5px !important;
+    }
+
+    .team .menu-text h3{
+        width: 450px;
+        margin-left: 230px;
+    }
+    .team .menu-text h1{
+        font-size: 45px !important;
+        width: 1050px;  
+        margin-left: -80px !important; 
+    }
+    .team hr{
+        margin-left: 380px;
+    }
+    .team #ht{
+        margin-left: 430px;
+    }
+
+    .team-overlay{
+        width: 100%;
+        height: 300px;
+        /* background-color: aqua; */
+        display: block !important;
+        margin-top: 50px;
+    }
+    .team1{
+        margin-left: 40px !important;
+    }
+    .team2{
+        margin-left: 20px !important;
+    }
+    .team3{
+        margin-left: 30px !important;
+    }
+    .team1-text{
+        height: 100px;
+        width: 450px !important;
+        background-color: #2B2825;
+        margin-top: -5px;
+        padding: 6px 7px 0px 7px;
+    }
+    .team-a{
+        border: 1px solid white;
+        padding: 0px 10px 0px 90px;
+    }
+    .team1-text h3{
+        font-family: "Oswald",sans-serif;
+        text-transform: uppercase;
+        color: #E88F2A;
+        font-size: 25px;
+        margin-top: 8px;
+    
+    }
+    .team1-text h5{
+         color: #FFF;
+         font-family: "Oswald",sans-serif;
+         margin-top: -18px;
+         font-size: 16px;
+         /* background-color: aqua; */
+         margin-left: 28px;
+    }
+    .teammember-box{
+        display: block !important;
+        margin-left: 50px;
+        width: 880px;
+        height: 3400px;
+    }
+    .teammember-box .member3 .hidden{
+        height: 180px !important;
+        margin-bottom: 60px; 
+        width: 800px;
+        margin-top: -64px !important;
+    }
+    .member3 .hidden .hidden1{
+        padding:0px 5px 0px 25px !important;
+    }
+    .teammember-box .member3 .hidden h2{
+        font-size: 35px;
+    }
+    .member3 .hidden p{
+        font-size: 25px;
+    }
+    .teammember-box .member3 .icons img{
+        width: 800px !important;
+        height: 800px !important;
+    }
+  
+    .teammember-box .member3 .icons .ic i{
+        font-size: 40px !important;
+        margin-left: 40px !important;
+        left: 50px !important;
+    }
+    /* .icons .ic .ict i{
+        border:1px solid white;
+        padding: 15px 15px 15px 15px;
+    } */
+    .special{
+        width: 890px !important;
+        height: 750px !important;
+        margin-bottom: 20px;
+        margin-top: -100px;
+    }
+    .special_menu .menu-text h3{
+        width: 480px;
+        margin-left: 0px !important;
+        font-size: 42px !important;
+        padding-bottom: 80px !important;
+    }
+    .special_menu .menu-text h1{
+        font-size: 45px !important;
+        width: 1050px; 
+        margin-top: -50px !important; 
+        margin-left: -70px !important;
+        padding-bottom: 10px;
+    }
+    .special_menu hr{
+        margin-left: 380px !important;
+    }
+    .special_menu #ht{
+        margin-left: 430px !important;
+    }
+    .special-info{
+        margin-left: 50px !important;
+        font-size: 30px !important;
+        margin-top: 50px !important;
+        width: 800px !important;
+    }
+    .button3{
+        height: 80px !important;
+        width: 185px !important;
+        left: 130px !important; 
+        top: 60px !important;
+    }
+    .button3 a{
+        padding-top: 18px !important;
+        padding-bottom: 20px !important;
+        font-size: 21px !important;
+    }
+    .button4{
+        height: 80px !important;
+        width: 185px !important;
+        top: 120px !important;
+        left: 515px !important;
+    }
+    .button4 a{
+        padding-top: 18px !important;
+        padding-bottom: 20px !important;
+        font-size: 21px !important;
+        padding-right: 25px !important;
+    }
+    .main-client{
+        width: 100%;
+        display: block !important;
+        height: 100px;
+    
+    }
+    .client_menu .menu-text h3{
+        width: 920px !important;
+        margin-left: 0px !important;
+        font-size: 42px !important;
+        padding-bottom: 80px !important;
+    }
+    .client_menu .menu-text h1{
+        font-size: 45px !important;
+        width: 1050px; 
+        margin-top: -50px !important; 
+        margin-left: -50px !important;
+        padding-bottom: 10px;
+    }
+    .client_menu hr{
+        margin-left: 380px !important;
+    }
+    .client_menu #ht{
+        margin-left: 430px !important;
+    }
+    .left{
+        display: none;
+    }
+    .center{
+        width: 770px !important;
+        height: 280px !important;
+    }
+    .center .leftz{
+        padding: 10px 10px 145px 10px ;
+    }
+    .center .leftz .left-ig img{
+           width: 150px !important;
+           height: 130px !important;
+           padding-bottom: 30px;
+    }
+    .center .leftz .left-client h2{
+        font-size: 30px !important;
+        margin-left: 90px !important;
+        width: 250px !important;
+        margin-top: -80px !important;
+        top: -40px !important;
+        position: relative;
+    } 
+    .center .leftz .left-pro p{
+            font-size: 25px !important;
+            margin-left: 90px !important;
+            margin-top: -50px !important;
+    }
+    .center .leftz .left-p p{
+        font-size: 22px !important;
+        width: 800px !important;
+        line-height: 50px;
+        margin-bottom: 30px !important;
+        padding-top: 20px;
+    }
+    .right{
+        display: none;
+    } 
+    .main-footer{
+        height: 1480px !important;
+        width: 890px !important;
+        display: block !important;
+    } 
+    .cake-footer{
+        width: 770px !important;
+        padding: 10px 10px 10px 10px !important;
+        margin-left: 60px !important;
+    }
+    .cake-footer>h1>a{
+        left: -50px !important;
+        padding: 40px 200px 240px 320px !important;
+        font-size: 40px;
+    }
+    .cake-footer>i{
+        font-size: 60px !important;
+        left: 250px !important;
+    }
+    .cake-footer>p{
+        font-size: 30px !important;
+        line-height: 35px !important;
+    }
+    .touch>h2{
+        margin-left: 60px !important;
+        font-size: 33px;
+        width: 260px !important;
+    }
+    .touch{
+        width: 300px;
+        margin-left: 40px !important;
+    }
+    .touch>i{
+        font-size: 25px !important;
+    }
+    .touch>p{
+        margin-left: 95px !important;
+        margin-top: -29px !important;
+        font-size: 25px !important;
+    }
+    .itc>i{
+        padding: 20px 20px 20px 25px !important;
+        margin-left: 20px !important;
+        font-size: 30px;
+    }
+    .iz{
+        padding-left: 50px !important;
+        width: 500px;
+    }
+    .quicklink>h2{
+        margin-left: 40px !important;
+        font-size: 33px;
+        width: 250px;
+    }
+    .quicklink{
+        width: 300px;
+        margin-left: 55px !important;
+        display: grid !important;
+        gap: 22px;
+    }
+    .quicklink i{
+        font-size: 25px;
+    }
+    .quicklink a{
+        margin-left: 80px !important;
+        font-size: 25px !important;
+        margin-top: -45px !important;
+    }
+    .newslatter>h2{
+        margin-left: 90px !important;
+        font-size: 33px;
+    }
+    .newslatter{
+        width: 300px;
+        display: grid;
+        gap: 30px;
+    }
+    .newslatter p{
+        font-size: 30px !important;
+        margin-left: 90px !important;
+        margin-top: -30px !important;
+        width: 700px !important;
+    }
+    .newslatter input{
+        height: 70px !important;
+        width: 670px !important;
+        padding: 15px !important;
+        margin-top: 170px !important;
+        margin-left: 90px !important;
+        position: absolute;
+        font-size: 25px;
+    }
+    .newslatter button{
+        height: 70px !important;
+        width: 110px !important;
+        font-size: 23px !important;
+        margin-left: 760px !important;
+        margin-top: -96px !important;
+    }
+    .end-footer{
+        background-color: #111111;
+        height: 170px !important;
+        width: px !important;
+        margin-top: -30px !important;
+    }
+    .end-footer a{
+        color: #FFF;
+        font-size: 30px !important;
+        /* line-height: 10px; */
+    
+    }
+    .end-footer p{
+        /* margin-left: 400px; */
+        padding-top: 35px;
+        font-size: 30px !important;
+        color: #FFF;
+        line-height: 1px;
+    }
+}
+
+@media only screen and (max-width:600px){
+    .email{
+        display: block  ;
+        width: 100% !important;
+    }
+    .cake{
+        /* display: block !important; */
+        width: 857px !important;
+        margin-left: 0px !important;
+    }
+    .cake>h1>a{
+        margin-left: 30px !important;
+        left: -20px !important;
+        padding: 20px 350px 20px 290px !important;
+        font-size: 35PX !important;
+    }
+    .cake i{
+        margin-left: 150px !important;
+    }
+    .call{
+        display: none;
+    }
+    .menu{
+        width: 857px !important;
+    }
+     .menu ul li a{
+       /* font-size: 12px !important; */
+       font-size: 19px !important;
+    } 
+   
+    .background-img{
+        height: 550px !important;
+        width: 857px;
+    }
+    .text{
+        top: 30px !important;
+        left: 30px !important;
+        font-size: 25px !important;
+    }
+    .czone{
+        font-size: 30px !important;
+        top: 80px !important;
+    }
+    .cake-london{
+        width: 490px !important;
+        height: 60px;
+        left: 0px !important; 
+        top: 90px !important;
+    
+    }
+    .button{
+        top: 20px !important;
+        width: 170px !important;
+        height: 70px !important;
+    }
+    .button a{
+        left: 16px !important;
+        font-size: 18px !important;
+    }
+    .btn-play{
+        top: 80px !important;  
+        left: 190px !important;
+    }
+    .cake-text{
+        left: 280px !important;
+        top: 220px !important;
+        font-size: 25px !important;
+    }
+    .about{
+        margin-top: -30px !important;
+        font-weight: 700 !important;
+        font-size: 40px !important;
+        margin-left: 0px !important;
+        width: 950px;
+       
+    }
+    .menu-text h3{
+        font-size: 50px !important;
+        height: 60px;
+    }
+    .menu-text h1{
+        font-size: 55px !important;
+        margin-top: -40px !important;
+        margin-left: -50px !important;
+    }
+    .menu-text hr{
+        margin-top: -22px !important;
+        margin-bottom: 16px !important; 
+        /* width: 100px !important; */
+    }
+    .about-img{
+      left: 20px !important;
+      top: 1000px !important;
+      width: 1000px !important;
+    }
+    .about-img img{
+        width: 824px !important;
+        height: 600px !important;
+    }
+    .about-text{
+        font-size: 40px !important;
+        width: 800px !important;
+        margin-left: -828px !important;
+        margin-top: 600px !important;
+    }
+    .about-text2{
+        font-size: 35px !important;
+        width: 800px !important;
+        margin-top: 20px !important;
+    }
+    .heart{
+        height: 150px !important;
+        width: 150px !important;
+        left: 10px !important;
+        top: 1100px !important;
+    }
+    .award{
+        height: 150px !important;
+        width: 150px !important;
+        left: 0px !important;
+        top: 1500px !important;
+    }
+    .heart-text{
+        margin-top: 1220px !important;
+        margin-left: -800px !important;
+        font-size: 40px !important;
+        width: 300px !important;
+    }
+    .heart-text p{
+        width: 650px !important;
+        font-size: 38px !important;
+        font-weight: 500!important;
+        margin-top: -22px;
+    }
+    .award-text{
+        margin-top: 1620px !important;
+        width: 400px !important;
+        margin-left: -300px !important;
+        font-size: 40px !important;
+    }
+    .award-text p{
+        width: 650px !important;
+        font-size: 38px !important;
+        margin-top: -22px;
+    }
+    .heart i{
+        font-size: 54px !important;
+        padding: 37px !important;  
+    }
+    .award i{
+        font-size: 54px !important;
+        margin-left: 10px !important;
+        padding: 25px 35px 43px 50px !important;
+    }
+    .main{
+        width: 857px !important;
+        height: 1000px !important;
+        display: block !important; 
+        margin-top: 2100px !important;
+    }
+    .in1{
+        height: 130px !important;
+        width: 130px !important;
+        padding: 45px !important;
+        margin-left: 70px !important;
+    }
+    .main h6{
+        width: 350px !important;
+        font-size: 38px !important;
+        margin-left: 100px !important;
+        margin-top: -110px !important;
+    }
+    .main .left1 h1{
+        margin-left: 100px !important;
+        margin-top: 320 !important;
+        top: 100px !important;
+        font-size: 75px !important;
+    }
+    .main i{
+        padding: 30px !important;
+        font-size: 43px !important;
+        margin-left: -32px !important;
+        margin-top: -32px !important;
+    }
+    .in2{
+        height: 130px !important;
+        width: 130px !important;
+        padding: 40px !important;
+        margin-left: 70px !important;
+    }
+    .main .left2 h1{
+        top: 330px !important;
+        font-size: 75px !important;
+        left: 150px !important;
+    }
+    .in3{
+        height: 130px !important;
+        width: 130px !important;
+        padding: 40px 20px 48px 48px !important;
+        margin-top: 100px !important;
+        margin-left: 70px !important;
+    }
+    .main .right1 h1{
+        top: 560px !important;
+        left: 150px !important;
+        font-size: 75px !important;
+    }
+    .main .right1 h6{
+        width: 450px !important;
+        top: 10px !important;
+        /* background-color: #FFF !important; */
+    } 
+    .in4{
+        height: 130px !important;
+        width: 130px !important;
+        padding: 40px 20px 48px 47px !important;
+        margin-top: 100px !important;
+        margin-left: 70px !important;
+    }
+    .main .right2 h1{
+        top: 790px !important;
+        left: 150px !important;
+        font-size: 75px !important;
+    }
+    .menu_pricing .menu-text h3{
+        width: 450px;
+        margin-left: 250px;
+        font-size: 50px !important;
+    }
+    .menu_pricing .menu-text h1{
+        font-size: 65px !important;
+        width: 1050px;   
+    }
+    .menu-text hr{
+        margin-left: 400px;
+        /* width: 200px !important; */
+    }
+    .menu-text #ht{
+        margin-left: 450px;
+        /* width: 200px !important; */
+    }
+    .menu-design ul{
+        height: 170px !important;
+        width: 600px !important;
+        padding: 60px 0px 10px 0px !important;
+        margin-left: 150px;
+    } 
+    .menu-design li{
+        padding: 60px 20px 60px 20px !important;
+    }
+    .menu-design a{
+        font-size: 31px !important;
+    }
+    .main-menu{
+        width: 100%;
+        display: block !important;
+    }
+    .menu-left{
+        width: 100% !important;
+    }
+    .menu-right{
+        width: 100% !important;
+        margin-left: 90px !important; 
+        margin-top: -22px;
+    }
+    .left-img img{
+        height: 130px; 
+        margin-left: 40px !important;
+    }
+    .left-img h2{
+        width: 39.5% !important;
+        height: 70px !important;
+        padding-top: 20px !important; 
+        font-size: 35px;
+        margin-left: 40px !important;
+    }
+    .left-text{
+        height: 203px !important;
+        margin-top: -225px !important;
+        padding: 10px 10px 20px 10px !important;
+        font-size: 34px !important;
+        width: 540px !important;
+        margin-left: 270px !important;
+    }
+    .lt{
+        padding: 5px 5px 15px 8px !important;
+        border: 3px solid white !important;
+    }
+    .rt-image img{
+        height: 130px;
+        margin-left: 40px !important;
+        
+    }
+    .rt-image h2{
+        width: 34% !important;
+        height: 70px !important;
+        padding-top: 20px !important;
+        font-size: 35px; 
+        margin-left: 40px !important;
+    }
+    .rt-text{
+        height: 203px !important;
+        margin-top: -225px !important;
+        padding: 10px 10px 20px 10px !important;
+        font-size: 34px !important;
+        width: 540px !important;
+        margin-left: 270px !important;
+    }
+    .let{
+        padding: 5px 5px 15 px 8px !important;
+        border: 2px solid white !important;
+    }
+    .service{
+        width: 857px !important;
+        height: 1450px !important;
+        display: block !important;
+    }
+    .birthday-cake{
+        width: 76% !important;
+        height: 370px !important;
+        left: 105px !important;
+        display: block !important;
+    }
+    .btc{
+        padding: 5px 22px 18px 22px !important;
+    }
+    .birthday-cake h3{
+        font-size: 35px !important;
+    }
+    .birthday-cake p{
+        font-size: 35px !important;
+        padding-bottom: 25px;
+    }
+    .birthday-cake a{
+        font-size: 30px !important;
+        margin-left: 250px !important;
+        margin-top: 220px !important;
+    }
+    .wedding-cake{
+        width: 76% !important;
+        height: 370px !important;
+        margin-top: 420px !important; 
+        left: -240px !important;
+    }
+    .wedding-cake h3{
+        font-size: 35px !important;
+    }
+    .wedding-cake p{
+        font-size: 35px !important;
+        padding-bottom: 25px;
+    }
+    .wedding-cake a{
+        font-size: 30px !important;
+        margin-left: 250px !important;
+    }
+    .custom-cake{
+        width: 76% !important;
+        height: 370px !important;
+        margin-top: 870px !important;
+        left: -640px !important;
+    }
+    .custom-cake h3{
+        font-size: 35px !important;
+    }
+    .custom-cake p{
+        font-size: 35px !important;
+        padding-bottom: 25px;
+    }
+    .custom-cake a{
+        font-size: 30px !important;
+        margin-left: 250px !important;
+    }
+    .discount h1{
+        margin-top: 1200px !important;
+        margin-left: 55px !important;
+        font-size: 42px !important;
+        position: absolute;
+        width: 790px;
+    }
+    .button2{
+        height: 90px !important;
+        width: 220px !important;
+        top: 1280px !important;
+        left: 350px !important;
+    }
+    .button2 a{
+        padding-top: 17px !important;
+        padding-bottom: 19px !important;      
+        font-size: 28px !important;
+        left: 5px !important;
+    }
+
+    .team .menu-text h3{
+        width: 500px;
+        margin-left: 200px;
+        font-size: 55px !important;
+    }
+    .team .menu-text h1{
+        font-size: 65px !important;
+        width: 1050px;  
+        margin-left: -65px !important; 
+    }
+    .team hr{
+        margin-left: 380px;
+    }
+    .team #ht{
+        margin-left: 430px;
+    }
+
+    .team-overlay{
+        width: 100%;
+        height: 300px;
+        /* background-color: aqua; */
+        display: block !important;
+        margin-top: 50px;
+    }
+    .team1{
+        margin-left: 40px !important;
+    }
+    .team2{
+        margin-left: 20px !important;
+    }
+    .team3{
+        margin-left: 30px !important;
+    }
+    .team1-text{
+        height: 100px;
+        width: 450px !important;
+        background-color: #2B2825;
+        margin-top: -5px;
+        padding: 6px 7px 0px 7px;
+    }
+    .team-a{
+        border: 1px solid white;
+        padding: 0px 10px 0px 90px;
+    }
+    .team1-text h3{
+        font-family: "Oswald",sans-serif;
+        text-transform: uppercase;
+        color: #E88F2A;
+        font-size: 35px !important;
+        margin-top: 4px !important;
+    
+    }
+    .team1-text h5{
+         color: #FFF;
+         font-family: "Oswald",sans-serif;
+         margin-top: -18px;
+         font-size: 20px !important;
+         /* background-color: aqua; */
+         margin-left: 28px;
+    }
+    .teammember-box{
+        display: block !important;
+        margin-left: 50px;
+        width: 880px;
+        height: 3400px;
+    }
+    .teammember-box .member3 .hidden{
+        height: 220px !important;
+        margin-bottom: 60px; 
+        margin-top: -64px !important;
+        width: 780px;
+    }
+    .member3 .hidden .hidden1{
+        padding:0px 5px 0px 25px !important;
+        /* margin-top: -50px; */
+    }
+    .teammember-box .member3 .hidden h2{
+        font-size: 40px;
+    }
+    .member3 .hidden p{
+        font-size: 35px;
+    }
+    .teammember-box .member3 .icons img{
+        width: 780px !important;
+        height: 840px !important;
+    }
+  
+    .teammember-box .member3 .icons .ic i{
+        font-size: 40px !important;
+        margin-left: 40px !important;
+        left: 50px !important;
+    }
+    /* .icons .ic .ict i{
+        border:1px solid white;
+        padding: 15px 15px 15px 15px;
+    } */
+    .special{
+        width: 857px !important;
+        height: 800px !important;
+        margin-bottom: 20px;
+    }
+    .special_menu .menu-text h3{
+        width: 600px;
+        margin-left: 0px !important;
+        font-size: 50px !important;
+        padding-bottom: 80px !important;
+    }
+    .special_menu .menu-text h1{
+        font-size: 65px !important;
+        width: 1050px; 
+        margin-top: -50px !important; 
+        margin-left: -65px !important;
+        padding-bottom: 10px;
+    }
+    .special_menu hr{
+        margin-left: 370px !important;
+        /* width: 200px !important; */
+    }
+    .special_menu #ht{
+        margin-left: 420px !important;
+    }
+    .special-info{
+        margin-left: 100px !important;
+        font-size: 30px !important;
+        margin-top: 50px !important;
+        width: 700px !important;
+    }
+    .button3{
+        height: 80px !important;
+        width:  210px !important;
+        left: 130px !important; 
+        top: 20px !important;
+    }
+    .button3 a{
+        padding-top: 14px !important;
+        padding-bottom: 20px !important;
+        font-size: 25px !important;
+    }
+    .button4{
+        height: 80px !important;
+        width: 210px !important;
+        top: 112px !important;
+        left: 480px !important;
+    }
+    .button4 a{
+        padding-top: 14px !important;
+        padding-bottom: 20px !important;
+        font-size: 25px !important;
+        padding-right: 25px !important;
+    }
+    .main-client{
+        width: 100%;
+        display: block !important;
+        height: 100px;
+    
+    }
+    .client_menu .menu-text h3{
+        width: 920px !important;
+        margin-left: -10px !important;
+        font-size: 50px !important;
+        padding-bottom: 80px !important;
+    }
+    .client_menu .menu-text h1{
+        font-size: 65px !important;
+        width: 1050px; 
+        margin-top: -50px !important; 
+        margin-left: -70px !important;
+        padding-bottom: 10px;
+    }
+    .client_menu hr{
+        margin-left: 380px !important;
+    }
+    .client_menu #ht{
+        margin-left: 430px !important;
+    }
+    .left{
+        display: none;
+    }
+    .center{
+        width: 750px !important;
+        height: 300px !important;
+        /* padding-bottom: 50px !important; */
+    }
+    .center .leftz{
+        padding: 10px 10px 165px 10px ;
+    }
+    .center .leftz .left-ig img{
+           width: 160px !important;
+           height: 150px !important;
+           padding-bottom: 30px;
+    }
+    .center .leftz .left-client h2{
+        font-size: 30px !important;
+        margin-left: 90px !important;
+        width: 300px !important;
+        margin-top: -110px !important;
+        top: -40px !important;
+        position: relative;
+    } 
+    .center .leftz .left-pro p{
+            font-size: 25px !important;
+            margin-left: 90px !important;
+            margin-top: -50px !important;
+    }
+    .center .leftz .left-p p{
+        font-size: 20px !important;
+        width: 650px !important;
+        line-height: 30px;
+        margin-bottom: 30px !important;
+        padding-top: 20px;
+    }
+    .right{
+        display: none;
+    } 
+    .main-footer{
+        height: 1650px !important;
+        width: 857px !important;
+        display: block !important;
+        margin-top: 450px !important;
+    } 
+    .cake-footer{
+        width: 670px !important;
+        height: 445px !important;
+        padding: 10px 10px 10px 10px !important;
+        margin-left: 110px !important;
+    }
+    .cake-footer>h1>a{
+        left: -40px !important;
+        padding: 40px 160px 320px 190px !important;
+        font-size: 50px;
+    }
+    .cake-footer>i{
+        font-size: 70px !important;
+        left: 110px !important;
+    }
+    .cake-footer>p{
+        font-size: 30px !important;
+        line-height: 40px !important;
+        width: 600px;
+        margin-left: 20px;
+    }
+    .touch>h2{
+        margin-left: 60px !important;
+        font-size: 30px;
+        width: 300px !important;
+    }
+    .touch{
+        width: 300px;
+        margin-left: 45px !important;
+    }
+    .touch>i{
+        font-size: 25px !important;
+    }
+    .touch>p{
+        margin-left: 100px !important;
+        margin-top: -35px !important;
+        font-size: 28px !important;
+        width: 600px !important;
+        /* background-color: #E88F2A; */
+    }
+    .itc>i{
+        padding: 20px 20px 20px 25px !important;
+        margin-left: 20px !important;
+        font-size: 30px;
+    }
+    .iz{
+        padding-left: 50px !important;
+        width: 500px;
+    }
+    .quicklink>h2{
+        margin-left: 40px !important;
+        font-size: 35px;
+        width: 300px;
+    }
+    .quicklink{
+        width: 300px;
+        margin-left: 55px !important;
+        display: grid !important;
+        gap: 22px;
+    }
+    .quicklink i{
+        font-size: 25px;
+    }
+    .quicklink a{
+        margin-left: 100px !important;
+        font-size: 28px !important;
+        margin-top: -50px !important;
+    }
+    .newslatter>h2{
+        margin-left: 90px !important;
+        font-size: 35px;
+    }
+    .newslatter{
+        width: 300px;
+        display: grid;
+        gap: 30px;
+    }
+    .newslatter p{
+        font-size: 28px !important;
+        margin-left: 90px !important;
+        margin-top: -30px !important;
+        width: 700px !important;
+    }
+    .newslatter input{
+        height: 80px !important;
+        width: 480px !important;
+        padding: 15px !important;
+        margin-top: 230px !important;
+        margin-left: 90px !important;
+        position: absolute;
+        font-size: 25px;
+    }
+    .newslatter button{
+        height: 80px !important;
+        width: 100px !important;
+        font-size: 20px !important;
+        margin-left: 570px !important;
+        margin-top: -36px !important;
+    }
+    .end-footer{
+        background-color: #111111;
+        height: 160px !important;
+        width: 890px !important;
+        margin-top: -35px !important;
+    }
+    .end-footer a{
+        color: #FFF;
+        font-size: 25px !important;
+        /* line-height: 10px; */
+    
+    }
+    .end-footer p{
+        /* margin-left: 400px; */
+        padding-top: 35px;
+        font-size: 25px !important;
+        color: #FFF;
+        line-height: 1px;
+    }
+}
+
+@media only screen and (min-width:768px) and (max-width:1074px){
+    .email{
+        display: block  ;
+        width: 100% !important;
+    }
+    .cake{
+        /* display: block !important; */
+        width: 890px !important;
+        margin-left: 0px !important;
+    }
+    .cake>h1>a{
+        margin-left: 170px !important;
+        left: -140px !important;
+        padding: 20px 310px 20px 330px !important;
+        font-size: 35PX !important;
+    }
+    .cake i{
+        margin-left: 220px !important;
+    }
+    .call{
+        display: none;
+    }
+    .menu{
+        width: 890px !important;
+    }
+     .menu ul li a{
+       /* font-size: 12px !important; */
+       font-size: 20px !important;
+    } 
+   
+    .background-img{
+        height: 50  0px !important;
+        width: 890px;
+    }
+    .text{
+        top: 30px !important;
+        left: 30px !important;
+        font-size: 22px !important;
+    }
+    .czone{
+        font-size: 28px !important;
+        top: 80px !important;
+    }
+    .cake-london{
+        width: 490px !important;
+        height: 60px;
+        left: 0px !important; 
+        top: 90px !important;
+    
+    }
+    .button{
+        top: 20px !important;
+        width: 150px !important;
+        height: 52px !important;
+    }
+    .button a{
+        left: 9px !important;
+        font-size: 16px !important;
+        top: 6px !important;
+    }
+    .btn-play{
+        top: 80px !important;  
+        left: 190px !important;
+    }
+    .cake-text{
+        left: 280px !important;
+        top: 210px !important;
+        font-size: 25px !important;
+    }
+    .about{
+        margin-top: -30px !important;
+        font-weight: 700 !important;
+        font-size: 50px !important;
+        margin-left: 0px !important;
+        width: 950px;
+       
+    }
+    .menu-text h3{
+        font-size: 50px !important;
+        height: 60px;
+    }
+    .menu-text h1{
+        font-size: 55px !important;
+        margin-top: -40px !important;
+        margin-left: -50px !important;
+    }
+    .menu-text hr{
+        margin-top: -22px !important;
+        margin-bottom: 16px !important; 
+        /* width: 100px !important; */
+    }
+    .about-img{
+      left: 60px !important;
+      top: 1000px !important;
+      width: 1000px !important;
+    }
+    .about-img img{
+        width: 790px !important;
+        height: 600px !important;
+    }
+    .about-text{
+        font-size: 30px !important;
+        width: 800px !important;
+        margin-left: -800px !important;
+        margin-top: 600px !important;
+    }
+    .about-text2{
+        font-size: 25px !important;
+        width: 800px !important;
+        margin-top: 20px !important;
+    }
+    .heart{
+        height: 130px !important;
+        width: 130px !important;
+        left: 10px !important;
+        top: 900px !important;
+    }
+    .award{
+        height: 130px !important;
+        width: 130px !important;
+        left: 440px !important;
+        top: 900px !important;
+    }
+    .heart-text{
+        margin-top: 1020px !important;
+        margin-left: -800px !important;
+        font-size: 30px !important;
+        width: 300px !important;
+    }
+    .heart-text p{
+        width: 350px !important;
+        font-size: 20px !important;
+        font-weight: 500!important;
+        margin-top: -22px;
+    }
+    .award-text{
+        margin-top: 1020px !important;
+        width: 400px !important;
+        margin-left: 150px !important;
+        font-size: 30px !important;
+    }
+    .award-text p{
+        width: 350px !important;
+        font-size: 20px !important;
+        margin-top: -22px;
+    }
+    .heart i{
+        font-size: 44px !important;
+        padding: 32px !important;  
+    }
+    .award i{
+        font-size: 44px !important;
+        margin-left: 10px !important;
+        padding: 25px 35px 43px 40px !important;
+    }
+    .main{
+        width: 890px !important;
+        height: 1000px !important;
+        display: block !important; 
+        margin-top: 1400px !important;
+    }
+    .in1{
+        height: 110px !important;
+        width: 120px !important;
+        padding: 45px !important;
+        margin-left: 70px !important;
+    }
+    .main h6{
+        width: 350px !important;
+        font-size: 28px !important;
+        margin-left: 120px !important;
+        margin-top: -100px !important;
+    }
+    .main .left1 h1{
+        margin-left: 120px !important;
+        margin-top: 320 !important;
+        top: 100px !important;
+        font-size: 65px !important;
+    }
+    .main i{
+        padding: 30px !important;
+        font-size: 33px !important;
+        margin-left: -32px !important;
+        margin-top: -38px !important;
+    }
+    .in2{
+        height: 110px !important;
+        width: 120px !important;
+        padding: 43px !important;
+        margin-left: 70px !important;
+    }
+    .main .left2 h1{
+        top: 310px !important;
+        font-size: 65px !important;
+        left: 170px !important;
+    }
+    .in3{
+        height: 110px !important;
+        width: 120px !important;
+        padding: 45px 35px 48px 50px !important;
+        margin-top: 100px !important;
+        margin-left: 70px !important;
+    }
+    .main .right1 h1{
+        top: 520px !important;
+        left: 170px !important;
+        font-size: 65px !important;
+    }
+    .main .right1 h6{
+        width: 450px !important;
+        top: 10px !important;
+        /* background-color: #FFF !important; */
+    } 
+    .in4{
+        height: 110px !important;
+        width: 120px !important;
+        padding: 45px 20px 48px 47px !important;
+        margin-top: 100px !important;
+        margin-left: 70px !important;
+    }
+    .main .right2 h1{
+        top: 730px !important;
+        left: 170px !important;
+        font-size: 65px !important;
+    }
+    .menu_pricing .menu-text h3{
+        width: 450px;
+        margin-left: 160px;
+        font-size: 50px !important;
+    }
+    .menu_pricing .menu-text h1{
+        font-size: 60px !important;
+        width: 1050px;   
+        margin-left: -80px !important;
+    }
+    .menu-text hr{
+        margin-left: 400px;
+        /* width: 200px !important; */
+    }
+    .menu-text #ht{
+        margin-left: 450px;
+        /* width: 200px !important; */
+    }
+    .menu-design ul{
+        height: 130px !important;
+        width: 470px !important;
+        padding: 50px 0px 10px 0px !important;
+        margin-left: 200px;
+    } 
+    .menu-design li{
+        padding: 45px 20px 45px 20px !important;
+    }
+    .menu-design a{
+        font-size: 21px !important;
+    }
+    .main-menu{
+        width: 100%;
+        display: block !important;
+    }
+    .menu-left{
+        width: 100% !important;
+    }
+    .menu-right{
+        width: 100% !important;
+        margin-left: 90px !important; 
+        margin-top: -22px;
+    }
+    .left-img img{
+        height: 110px; 
+        margin-left: 74px !important;
+    }
+    .left-img h2{
+        width: 26% !important;
+        height: 60px !important;
+        padding-top: 12px !important; 
+        font-size: 30px;
+        margin-left: 72px !important;
+    }
+    .left-text{
+        height: 170px !important;
+        margin-top: -195px !important;
+        padding: 10px 10px 20px 10px !important;
+        font-size: 24px !important;
+        width: 540px !important;
+        margin-left: 272px !important;
+    }
+    .lt{
+        padding: 5px 5px 25px 8px !important;
+        border: 3px solid white !important;
+    }
+    .rt-image img{
+        height: 110px;
+        margin-left: 74px !important;
+        
+    }
+    .rt-image h2{
+        width: 23.3% !important;
+        height: 60px !important;
+        padding-top: 12px !important;
+        font-size: 30px; 
+        margin-left: 72px !important;
+    }
+    .rt-text{
+        height: 170px !important;
+        margin-top: -195px !important;
+        padding: 10px 10px 20px 10px !important;
+        font-size: 24px !important;
+        width: 540px !important;
+        margin-left: 270px !important;
+    }
+    .let{
+        padding: 5px 5px 25px 8px !important;
+        border: 2px solid white !important;
+    }
+    .service{
+        width: 890px !important;
+        height: 1100px !important;
+        display: block !important;
+    }
+    .birthday-cake{
+        width: 55% !important;
+        height: 260px !important;
+        left: 200px !important;
+        display: block !important;
+    }
+    .btc{
+        padding: 5px 22px 18px 22px !important;
+    }
+    .birthday-cake h3{
+        font-size: 25px !important;
+    }
+    .birthday-cake p{
+        font-size: 25px !important;
+        padding-bottom: 5px;
+    }
+    .birthday-cake a{
+        font-size: 20px !important;
+        margin-left: 160px !important;
+        margin-top: 200px !important;
+    }
+    .wedding-cake{
+        width: 55% !important;
+        height: 260px !important;
+        margin-top: 300px !important; 
+        left: -150px !important;
+    }
+    .wedding-cake h3{
+        font-size: 25px !important;
+    }
+    .wedding-cake p{
+        font-size: 25px !important;
+        padding-bottom: 5px;
+    }
+    .wedding-cake a{
+        font-size: 20px !important;
+        margin-left: 160px !important;
+    }
+    .custom-cake{
+        width: 55% !important;
+        height: 260px !important;
+        margin-top: 630px !important;
+        left: -550px !important;
+    }
+    .custom-cake h3{
+        font-size: 25px !important;
+    }
+    .custom-cake p{
+        font-size: 25px !important;
+        padding-bottom: 5px;
+    }
+    .custom-cake a{
+        font-size: 20px !important;
+        margin-left: 160px !important;
+    }
+    .discount h1{
+        margin-top: 870px !important;
+        margin-left: 52px !important;
+        font-size: 32px !important;
+        position: absolute;
+        width: 790px;
+    }
+    .button2{
+        height: 70px !important;
+        width: 190px !important;
+        top: 950px !important;
+        left: 350px !important;
+    }
+    .button2 a{
+        padding-top: 10px !important;
+        padding-bottom: 19px !important;      
+        font-size: 20px !important;
+        left: 10px !important;
+    }
+
+    .team .menu-text h3{
+        width: 500px;
+        margin-left: 170px;
+        font-size: 45px !important;
+    }
+    .team .menu-text h1{
+        font-size: 55px !important;
+        width: 1050px;  
+        margin-left: -50px !important; 
+    }
+    .team hr{
+        margin-left: 390px;
+    }
+    .team #ht{
+        margin-left: 440px;
+    }
+
+    .team-overlay{
+        width: 100%;
+        height: 300px;
+        /* background-color: aqua; */
+        display: block !important;
+        margin-top: 50px;
+    }
+    .team1{
+        margin-left: 40px !important;
+    }
+    .team2{
+        margin-left: 20px !important;
+    }
+    .team3{
+        margin-left: 30px !important;
+    }
+    .team1-text{
+        height: 100px;
+        width: 450px !important;
+        background-color: #2B2825;
+        margin-top: -5px;
+        padding: 6px 7px 0px 7px;
+    }
+    .team-a{
+        border: 1px solid white;
+        padding: 0px 10px 0px 90px;
+    }
+    .team1-text h3{
+        font-family: "Oswald",sans-serif;
+        text-transform: uppercase;
+        color: #E88F2A;
+        font-size: 35px !important;
+        margin-top: 4px !important;
+    
+    }
+    .team1-text h5{
+         color: #FFF;
+         font-family: "Oswald",sans-serif;
+         margin-top: -18px;
+         font-size: 20px !important;
+         /* background-color: aqua; */
+         margin-left: 28px;
+    }
+    .teammember-box{
+        display: block !important;
+        margin-left: 50px;
+        width: 880px;
+        height: 3400px;
+    }
+    .teammember-box .member3 .hidden{
+        height: 150px !important;
+        margin-bottom: 60px; 
+        margin-top: -64px !important;
+        width: 480px;
+        margin-left: 160px;
+    }
+    .member3 .hidden .hidden1{
+        padding:0px 5px 0px 25px !important;
+        /* margin-top: -50px; */
+    }
+    .teammember-box .member3 .hidden h2{
+        font-size: 30px;
+    }
+    .member3 .hidden p{
+        font-size: 22px;
+    }
+    .teammember-box .member3 .icons img{
+        width: 480px !important;
+        height: 480px !important;
+        margin-left: 160px;
+    }
+  
+    .teammember-box .member3 .icons .ic i{
+        font-size: 40px !important;
+        margin-left: 40px !important;
+        left: 50px !important;
+    }
+    /* .icons .ic .ict i{
+        border:1px solid white;
+        padding: 15px 15px 15px 15px;
+    } */
+    .special{
+        width: 890px !important;
+        height: 670px !important;
+        margin-bottom: 20px;
+        margin-top: -1300px;
+    }
+    .special_menu .menu-text h3{
+        width: 600px;
+        margin-left: 0px !important;
+        font-size: 45px !important;
+        padding-bottom: 80px !important;
+    }
+    .special_menu .menu-text h1{
+        font-size: 55px !important;
+        width: 1050px; 
+        margin-top: -50px !important; 
+        margin-left: -75px !important;
+        padding-bottom: 10px;
+    }
+    .special_menu hr{
+        margin-left: 370px !important;
+        /* width: 200px !important; */
+    }
+    .special_menu #ht{
+        margin-left: 420px !important;
+    }
+    .special-info{
+        margin-left: 100px !important;
+        font-size: 25px !important;
+        margin-top: 50px !important;
+        width: 700px !important;
+    }
+    .button3{
+        height: 76px !important;
+        width:  175px !important;
+        left: 130px !important; 
+        top: 20px !important;
+    }
+    .button3 a{
+        padding-top: 18px !important;
+        padding-bottom: 20px !important;
+        font-size: 19px !important;
+    }
+    .button4{
+        height: 76px !important;
+        width: 175px !important;
+        top: 50px !important;
+        left: 505px !important;
+    }
+    .button4 a{
+        padding-top: 18px !important;
+        padding-bottom: 20px !important;
+        font-size: 19px !important;
+        padding-right: 25px !important;
+    }
+    .main-client{
+        width: 100%;
+        display: block !important;
+        height: 100px;
+    
+    }
+    .client_menu .menu-text h3{
+        width: 920px !important;
+        margin-left: -10px !important;
+        font-size: 50px !important;
+        padding-bottom: 80px !important;
+    }
+    .client_menu .menu-text h1{
+        font-size: 55px !important;
+        width: 1050px; 
+        margin-top: -50px !important; 
+        margin-left: -60px !important;
+        padding-bottom: 10px;
+    }
+    .client_menu hr{
+        margin-left: 390px !important;
+    }
+    .client_menu #ht{
+        margin-left: 440px !important;
+    }
+    .left{
+        display: none;
+    }
+    .center{
+        width: 750px !important;
+        height: 300px !important;
+        /* padding-bottom: 50px !important; */
+    }
+    .center .leftz{
+        padding: 10px 10px 175px 5px ;
+    }
+    .center .leftz .left-ig img{
+           width: 150px !important;
+           height: 140px !important;
+           padding-bottom: 30px;
+    }
+    .center .leftz .left-client h2{
+        font-size: 30px !important;
+        margin-left: 90px !important;
+        width: 300px !important;
+        margin-top: -110px !important;
+        top: -40px !important;
+        position: relative;
+    } 
+    .center .leftz .left-pro p{
+            font-size: 25px !important;
+            margin-left: 90px !important;
+            margin-top: -50px !important;
+    }
+    .center .leftz .left-p p{
+        font-size: 20px !important;
+        width: 600px !important;
+        line-height: 50px;
+        margin-bottom: 30px !important;
+        padding-top: 20px;
+    }
+    .right{
+        display: none;
+    } 
+    .main-footer{
+        height: 1600px !important;
+        width: 890px !important;
+        display: block !important;
+        margin-top: 450px !important;
+    } 
+    .cake-footer{
+        width: 560px !important;
+        height: 440px !important;
+        padding: 10px 10px 10px 10px !important;
+        margin-left: 160px !important;
+    }
+    .cake-footer>h1>a{
+        left: -50px !important;
+        padding: 40px 130px 320px 185px !important;
+        font-size: 40px;
+    }
+    .cake-footer>i{
+        font-size: 60px !important;
+        left: 130px !important;
+    }
+    .cake-footer>p{
+        font-size: 25px !important;
+        line-height: 40px !important;
+    }
+    .touch>h2{
+        margin-left: 110px !important;
+        font-size: 30px;
+        width: 300px !important;
+    }
+    .touch{
+        width: 300px;
+        margin-left: 45px !important;
+    }
+    .touch>i{
+        font-size: 25px !important;
+        margin-left: 110px !important;
+    }
+    .touch>p{
+        margin-left: 150px !important;
+        margin-top: -35px !important;
+        font-size: 28px !important;
+        width: 600px !important;
+        /* background-color: #E88F2A; */
+    }
+    .itc>i{
+        padding: 20px 20px 20px 25px !important;
+        margin-left: 55px !important;
+        font-size: 25px;
+    }
+    .iz{
+        padding-left: 50px !important;
+        width: 500px;
+    }
+    .quicklink>h2{
+        margin-left: 90px !important;
+        font-size: 35px;
+        width: 300px;
+    }
+    .quicklink{
+        width: 300px;
+        margin-left: 55px !important;
+        display: grid !important;
+        gap: 22px;
+    }
+    .quicklink i{
+        font-size: 25px;
+        margin-left: 95px !important;
+    }
+    .quicklink a{
+        margin-left: 150px !important;
+        font-size: 28px !important;
+        margin-top: -50px !important;
+    }
+    .newslatter>h2{
+        margin-left: 150px !important;
+        font-size: 35px;
+    }
+    .newslatter{
+        width: 300px;
+        display: grid;
+        gap: 30px;
+    }
+    .newslatter p{
+        font-size: 28px !important;
+        margin-left: 150px !important;
+        margin-top: -30px !important;
+        width: 700px !important;
+    }
+    .newslatter input{
+        height: 60px !important;
+        width: 550px !important;
+        padding: 15px !important;
+        margin-top: 200px !important;
+        margin-left: 150px !important;
+        position: absolute;
+        font-size: 25px;
+    }
+    .newslatter button{
+        height: 60px !important;
+        width: 100px !important;
+        font-size: 20px !important;
+        margin-left: 700px !important;
+        margin-top: -67px !important;
+    }
+    .end-footer{
+        background-color: #111111;
+        height: 150px !important;
+        width: 890px !important;
+        margin-top: -35px !important;
+    }
+    .end-footer a{
+        color: #FFF;
+        font-size: 25px !important;
+        /* line-height: 10px; */
+    
+    }
+    .end-footer p{
+        /* margin-left: 400px; */
+        padding-top: 35px;
+        font-size: 25px !important;
+        color: #FFF;
+        line-height: 1px;
+    }
+}
+
+@media only screen and (min-width:992px) and (max-width:1074px){
+    .email{
+        display: block !important;
+        width: 100% !important;
+    }
+    .email>i{
+        font-size: 40px !important;
+        margin-top: 25px !important;
+    }
+    .email>h6{
+        font-size: 18px !important;
+        margin-top: -45px !important;
+        margin-left: 110px !important;
+      
+    }
+    .cake{
+        /* display: block !important; */
+        width: 340px !important;
+        margin-left: 330px !important;
+    }
+    .cake>h1>a{
+        margin-left: 160px !important;
+        left: -150px !important;
+        padding: 25px 70px 25px 105px !important;
+        font-size: 25PX !important;
+
+    }
+    .cake i{
+        margin-left: -30px !important;
+        font-size: 40px !important;
+        margin-top: 5px;
+    }
+    .call{
+        display: block;
+        width: 80px !important;
+    }
+    .call>h6{
+        font-size: 18px !important;
+        margin-left: -220px;
+    }
+    .call>i{
+         font-size: 40px !important;
+         margin-top: 15px !important;
+         margin-left: -180px !important;
+    }
+    .call>p{
+        margin-top: -55px !important;
+        margin-left: -110px !important;
+    }
+    .menu{
+        width: 979px !important;
+    }
+     .menu ul li a{
+       /* font-size: 12px !important; */
+       font-size: 18px !important;
+    } 
+   
+    .background-img{
+        height: 460px !important;
+        width: 979px;
+    }
+    .text{
+        top: 60px !important;
+        left: 30px !important;
+        font-size: 18px !important;
+    }
+    .czone{
+        font-size: 24px !important;
+        top: 50px !important;
+    }
+    .cake-london{
+        width: 490px !important;
+        height: 60px;
+        left: 0px !important; 
+        top: 70px !important;
+    
+    }
+    .button{
+        top: 20px !important;
+        width: 160px !important;
+        height: 60px !important;
+    }
+    .button a{
+        left: 13px !important;
+        font-size: 16px !important;
+        top: 10px !important;
+    }
+    .btn-play{
+        top: 70px !important;  
+        left: 190px !important;
+    }
+    .cake-text{
+        left: 280px !important;
+        top: 190px !important;
+        font-size: 22px !important;
+    }
+    .about{
+        margin-top: -30px !important;
+        font-weight: 700 !important;
+        font-size: 50px !important;
+        margin-left: 0px !important;
+        width: 950px;
+       
+    }
+    .menu-text h3{
+        font-size: 40px !important;
+        height: 60px;
+    }
+    .menu-text h1{
+        font-size: 45px !important;
+        margin-top: -40px !important;
+        margin-left: -50px !important;
+    }
+    .menu-text hr{
+        margin-top: -21px !important;
+        margin-bottom: 16px !important; 
+        /* width: 100px !important; */
+    }
+    .about-img{
+      left: 30px !important;
+      top: 900px !important;
+      width: 1000px !important;
+    }
+    .about-img img{
+        width: 370px !important;
+        height: 470px !important;
+    }
+    .about-text{
+        font-size: 22px !important;
+        width: 500px !important;
+        margin-left: 60px !important;
+        margin-top: -25px !important;
+        /* background-color: aqua; */
+    }
+    .about-text2{
+        font-size: 18px !important;
+        width: 450px !important;
+        margin-top: 20px !important;
+        /* background-color: aqua; */
+    }
+    .heart{
+        height: 100px !important;
+        width: 100px !important;
+        left: 430px !important;
+        top: 220px !important;
+    }
+    .award{
+        height: 100px !important;
+        width: 100px !important;
+        left: 700px !important;
+        top: 220px !important;
+    }
+    .heart-text{
+        margin-top: 310px !important;
+        margin-left: -500px !important;
+        font-size: 20px !important;
+        width: 200px !important;
+        /* background-color: aqua; */
+    }
+    .heart-text p{
+        width: 200px !important;
+        font-size: 16px !important;
+        font-weight: 500!important;
+        margin-top: -22px;
+        line-height: 22px;
+        /* background-color: aqua; */
+    }
+    .award-text{
+        margin-top: 310px !important;
+        width: 200px !important;
+        margin-left: 70px !important;
+        font-size: 20px !important;
+    }
+    .award-text p{
+        width: 200px !important;
+        font-size: 16px !important;
+        margin-top: -22px;
+        line-height: 22px;
+    }
+    .heart i{
+        font-size: 34px !important;
+        padding: 22px !important;  
+    }
+    .award i{
+        font-size: 34px !important;
+        margin-left: 10px !important;
+        padding: 22px 26px 20px 28px !important;
+    }
+    .main{
+        width: 979px !important;
+        height: 300px !important;
+        display: flex !important; 
+        margin-top: 520px !important;
+    }
+    .in1{
+        height: 70px !important;
+        width: 70px !important;
+        padding: 25px !important;
+        margin-left: 20px !important;
+    }
+    .main h6{
+        width: 350px !important;
+        font-size: 18px !important;
+        margin-left: 60px !important;
+        margin-top: -60px !important;
+    }
+    .main .left1 h1{
+        margin-left: 60px !important;
+        margin-top: 200 !important;
+        top: 110px !important;
+        font-size: 33px !important;
+    }
+    .main i{
+        padding: 16px !important;
+        font-size: 23px !important;
+        margin-left: -20px !important;
+        margin-top: -18px !important;
+    }
+    .in2{
+        height: 70px !important;
+        width: 72px !important;
+        padding: 25px !important;
+        margin-left: 35px !important;
+    }
+    .main .left2 h1{
+        top: 120px !important;
+        font-size: 33px !important;
+        left: 305px !important;
+    }
+    .main .left2 h6{
+        width: 100px !important;
+    }
+    .in3{
+        height: 70px !important;
+        width: 73px !important;
+        padding: 25px 20px 38px 30px !important;
+        margin-top: 100px !important;
+        margin-left: 20px !important;
+    }
+    .main .right1 h1{
+        top: 120px !important;
+        left: 540px !important;
+        font-size: 33px !important;
+    }
+    .main .right1 h6{
+        width: 100px !important;
+        top: 0px !important;
+        /* background-color: #FFF !important; */
+    } 
+    .in4{
+        height: 70px !important;
+        width: 70px !important;
+        padding: 23px 20px 28px 27px !important;
+        margin-top: 100px !important;
+        margin-left: -10px !important;
+    }
+    .main .right2 h1{
+        top: 110px !important;
+        left: 750px !important;
+        font-size: 33px !important;
+    }
+    .menu_pricing .menu-text h3{
+        width: 300px;
+        margin-left: 70px;
+        font-size: 40px !important;
+    }
+    .menu_pricing .menu-text h1{
+        font-size: 45px !important;
+        width: 1150px;   
+    }
+    .menu-text hr{
+        margin-left: 450px;
+        /* width: 200px !important; */
+    }
+    .menu-text #ht{
+        margin-left: 500px;
+        /* width: 200px !important; */
+    }
+    .menu-design ul{
+        height: 130px !important;
+        width: 400px !important;
+        padding: 60px 0px 10px 0px !important;
+        margin-left: 50px;
+    } 
+    .menu-design li{
+        padding: 50px 20px 40px 20px !important;
+    }
+    .menu-design a{
+        font-size: 16px !important;
+    }
+    .main-menu{
+        width: 100%;
+        display: flex !important;
+    }
+    .menu-left{
+        width: 100% !important;
+    }
+    .menu-right{
+        width: 100% !important;
+        margin-left: 90px !important; 
+        margin-top: -22px;
+    }
+    .left-img img{
+        height: 90px; 
+        margin-left: 20px !important;
+    }
+    .left-img h2{
+        width: 32.4% !important;
+        height: 50px !important;
+        padding-top: 10px !important; 
+        font-size: 25px;
+        margin-left: 20px !important;
+        /* padding-bottom: 50px !important; */
+    }
+    .left-text{
+        height: 140px !important;
+        margin-top: -160px !important;
+        padding: 5px 6px 25px 6px !important;
+        font-size: 20px !important;
+        width: 310px !important;
+        margin-left: 180px !important;
+    }
+    .left-text .lt h5{
+        line-height: 10px;
+    }
+    .lt{
+        padding: 5px 5px 5px 8px !important;
+        border: 3px solid white !important;
+        /* margin-top: 0px; */
+    }
+    .rt-image img{
+        height: 90px;
+        margin-left: 20px !important;
+        margin-top: 73px !important;
+        
+    }
+    .rt-image h2{
+        width: 32.3% !important;
+        height: 50px !important;
+        padding-top: 10px !important;
+        font-size: 25px; 
+        margin-left: 20px !important;
+    }
+    .rt-text{
+        height: 140px !important;
+        margin-top: -160px !important;
+        padding: 10px 10px 5px 10px !important;
+        font-size: 20px !important;
+        width: 310px !important;
+        margin-left: 180px !important;
+    }
+    .rt-text .let h5{
+        line-height: 5px !important;
+    }
+    .let{
+        padding: 5px 5px 5px 8px !important;
+        border: 2px solid white !important;
+    }
+    .rt-b .rt-image img{
+        height: 90px;
+        margin-left: 20px !important;
+        margin-top: 50px !important;
+        
+    }
+    .rt-c .rt-image img{
+        height: 90px;
+        margin-left: 20px !important;
+        margin-top: 50px !important;
+        
+    }
+   
+    .service{
+        width: 979px !important;
+        height: 500px !important;
+        display: flex !important;
+    }
+    .birthday-cake{
+        width: 28% !important;
+        height: 350px !important;
+        left: 45px !important;
+        display: block !important;
+    }
+    .btc{
+        padding: 0px 22px 19px 22px !important;
+    }
+    .birthday-cake h3{
+        font-size: 25px !important;
+    }
+    .birthday-cake p{
+        font-size: 20px !important;
+        padding-bottom: 25px;
+        width: 150px;
+        margin-left: 30px;
+    }
+    .birthday-cake a{
+        font-size: 20px !important;
+        margin-left: 30px !important;
+        /* margin-top: -50px !important; */
+    }
+    .wedding-cake{
+        width: 28% !important;
+        height: 350px !important;
+        margin-top: -20px !important; 
+        left: 5px !important;
+    }
+    .wedding-cake h3{
+        font-size: 25px !important;
+    }
+    .wedding-cake p{
+        font-size: 20px !important;
+        padding-bottom: 25px;
+        width: 150px;
+        margin-left: 30px;
+    }
+    .wedding-cake a{
+        font-size: 20px !important;
+        margin-left: 30px !important;
+    }
+    .custom-cake{
+        width: 28% !important;
+        height: 350px !important;
+        margin-top: -20px !important;
+        left: -90px !important;
+    }
+    .custom-cake h3{
+        font-size: 25px !important;
+    }
+    .custom-cake p{
+        font-size: 20px !important;
+        padding-bottom: 25px;
+        width: 150px;
+        margin-left: 30px;
+    }
+    .custom-cake a{
+        font-size: 20px !important;
+        margin-left: 30px !important;
+    }
+    .discount h1{
+        margin-top: 325px !important;
+        margin-left: 86px !important;
+        font-size: 30px !important;
+        position: absolute;
+        width: 790px;
+    }
+    .button2{
+        height: 70px !important;
+        width: 170px !important;
+        top: 350px !important;
+        left: 380px !important;
+    }
+    .button2 a{
+        padding-top: 14px !important;
+        padding-bottom: 19px !important;      
+        font-size: 18px !important;
+        left: 5px !important;
+    }
+
+    .team .menu-text h3{
+        width: 500px;
+        margin-left: 50px;
+        font-size: 40px !important;
+    }
+    .team .menu-text h1{
+        font-size: 45px !important;
+        width: 1050px;  
+        margin-left: -20px !important; 
+    }
+    .team hr{
+        margin-left: 430px;
+    }
+    .team #ht{
+        margin-left: 480px;
+    }
+
+    .team-overlay{
+        width: 100%;
+        height: 300px;
+        /* background-color: aqua; */
+        display: flex !important;
+        margin-top: 50px;
+    }
+    .team1{
+        margin-left: 10px !important;
+    }
+    .team2{
+        margin-left: 10px !important;
+    }
+    .team3{
+        margin-left: 10px !important;
+    }
+    .team1-text{
+        height: 100px;
+        width: 650px !important;
+        background-color: #2B2825;
+        margin-top: -5px;
+        padding: 6px 7px 0px 7px;
+    }
+    .team-a{
+        border: 1px solid white;
+        padding: 0px 10px 0px 90px;
+    }
+    .team1-text h3{
+        font-family: "Oswald",sans-serif;
+        text-transform: uppercase;
+        color: #E88F2A;
+        font-size: 35px !important;
+        margin-top: 4px !important;
+    
+    }
+    .team1-text h5{
+         color: #FFF;
+         font-family: "Oswald",sans-serif;
+         margin-top: -18px;
+         font-size: 20px !important;
+         /* background-color: aqua; */
+         margin-left: 28px;
+    }
+    .teammember-box{
+        display: flex !important;
+        margin-left: 15px;
+        width: 979px;
+        height: 500px;
+    }
+    .teammember-box .member3 .hidden{
+        height: 112px !important;
+        margin-bottom: 60px; 
+        margin-top: -46px !important;
+        width: 280px;
+        margin-left: -0px;
+    }
+    .member3 .hidden .hidden1{
+        padding:0px 5px 0px 25px !important;
+        /* margin-top: -50px; */
+    }
+    .teammember-box .member3 .hidden h2{
+        font-size: 22px;
+    }
+    .member3 .hidden p{
+        font-size: 18px;
+    }
+    .teammember-box .member3 .icons img{
+        width: 300px !important;
+        height: 400px !important;
+        margin-top: 80px;
+        margin-left: -20px;
+       
+    }
+  
+    .teammember-box .member3 .icons .ic i{
+        font-size: 20px !important;
+        margin-left: 10px !important;
+        left: 30px !important;
+    }
+    /* .icons .ic .ict i{
+        border:1px solid white;
+        padding: 15px 15px 15px 15px;
+    } */
+    .special{
+        width: 979px !important;
+        height: 600px !important;
+        margin-bottom: 20px;
+        margin-top: 50px;
+    }
+    .special_menu .menu-text h3{
+        width: 600px;
+        margin-left: 0px !important;
+        font-size: 40px !important;
+        padding-bottom: 80px !important;
+    }
+    .special_menu .menu-text h1{
+        font-size: 45px !important;
+        width: 1050px; 
+        margin-top: -50px !important; 
+        margin-left: -25px !important;
+        padding-bottom: 10px;
+    }
+    .special_menu hr{
+        margin-left: 410px !important;
+        /* width: 200px !important; */
+    }
+    .special_menu #ht{
+        margin-left: 460px !important;
+    }
+    .special-info{
+        margin-left: 220px !important;
+        font-size: 20px !important;
+        margin-top: 50px !important;
+        width: 550px !important;
+    }
+    .button3{
+        height: 70px !important;
+        width:  175px !important;
+        left: 60px !important; 
+        top: 20px !important;
+    }
+    .button3 a{
+        padding-top: 12px !important;
+        padding-bottom: 20px !important;
+        font-size: 19px !important;
+    }
+    .button4{
+        height: 70px !important;
+        width: 175px !important;
+        top: 18px !important;
+        left: 505px !important;
+    }
+    .button4 a{
+        padding-top: 12px !important;
+        padding-bottom: 20px !important;
+        font-size: 19px !important;
+        padding-right: 25px !important;
+    }
+    .main-client{
+        width: 100%;
+        display: flex !important;
+        height: 100px;
+    
+    }
+    .client_menu .menu-text h3{
+        width: 920px !important;
+        margin-left: 40px !important;
+        font-size: 40px !important;
+        padding-bottom: 80px !important;
+    }
+    .client_menu .menu-text h1{
+        font-size: 45px !important;
+        width: 1050px; 
+        margin-top: -50px !important; 
+        margin-left: -20px !important;
+        padding-bottom: 10px;
+    }
+    .client_menu hr{
+        margin-left: 420px !important;
+    }
+    .client_menu #ht{
+        margin-left: 470px !important;
+    }
+    .main-client .left{
+        display: block;
+        width: 280px !important;
+        height: 215px !important;
+        margin-left: 20px;
+       
+    }
+    .left .leftz{
+        padding: 10px 10px 145px 0px;
+      
+    }
+    .leftz .left-ig img{
+           width: 80px !important;
+           height: 100px !important;
+           padding-bottom: 40px;
+           margin-left: px;
+           margin-top: -15px;
+    }
+    .leftz .left-client h2{
+        font-size: 20px !important;
+        margin-left: 5px !important;
+        width: 150px !important;
+        margin-top: -110px !important;
+        top: 10px !important;
+        position: relative;
+    } 
+    .leftz .left-pro p{
+            font-size: 15px !important;
+            margin-left: 5px !important;
+            margin-top: 25px !important;
+    }
+    .leftz .left-p p{
+        font-size: 12px !important;
+        width: 230px !important;
+        line-height: 20px;
+        margin-bottom: 30px !important;
+       
+        margin-left: -90px;
+    }
+    .center{
+        width: 280px !important;
+        height: 215px !important;
+        
+        margin-left: 50px !important;
+    }
+    .center .leftz{
+        padding: 10px 10px 145px 10px ;
+    }
+    .center .leftz .left-ig img{
+           width: 80px !important;
+           height: 100px !important;
+           padding-bottom: 40px;
+           margin-left: -10px;
+           margin-top: -15px;
+    }
+    .center .leftz .left-client h2{
+        font-size: 20px !important;
+        margin-left: 5px !important;
+        width: 200px !important;
+        margin-top: -110px !important;
+        top: 10px !important;
+        position: relative;
+    } 
+    .center .leftz .left-pro p{
+            font-size: 15px !important;
+            margin-left: 5px !important;
+            margin-top: 25px !important;
+    }
+    .center .leftz .left-p p{
+        font-size: 12px !important;
+        width: 230px !important;
+        line-height: 20px;
+        margin-bottom: 30px !important;
+        padding-top: 0px;
+        margin-left: -100px;
+    }
+    .right{
+        display: block;
+        width: 280px !important;
+        height: 215px !important;
+        margin-left: 50px !important;
+    } 
+    .right .leftz{
+        padding: 10px 10px 145px 0px;
+    }
+    .main-footer{
+        height: 350px !important;
+        width: 979px !important;
+        display: flex !important;
+        margin-top: 320px !important;
+    } 
+    .cake-footer{
+        width: 300px !important;
+        height: 400px !important;
+        padding: 10px 10px 10px 10px !important;
+        margin-left: 30px !important;
+        margin-top: 30px !important;
+    }
+    .cake-footer>h1>a{
+        left: -50px !important;
+        padding: 40px 30px 300px 80px !important;
+        font-size: 30px;
+    }
+    .cake-footer>i{
+        font-size: 50px !important;
+        left: 40px !important;
+    }
+    .cake-footer>p{
+        font-size: 20px !important;
+        line-height: 25px !important;
+    }
+    .touch>h2{
+        margin-left: 20px !important;
+        font-size: 25px;
+        width: 250px !important;
+    }
+    .touch{
+        width: 300px;
+        margin-left: 15px !important;
+    }
+    .touch>i{
+        font-size: 18px !important;
+        margin-left: 20px !important;
+    }
+    .touch>p{
+        margin-left: 50px !important;
+        margin-top: -24px !important;
+        font-size: 20px !important;
+        width: 150px !important;
+        /* background-color: #E88F2A; */
+    }
+    .itc>i{
+        padding: 10px 10px 10px 15px !important;
+        margin-left: 10px !important;
+        font-size: 15px;
+    }
+    .iz{
+        padding-left: 20px !important;
+        width: 300px;
+        margin-top: 40px !important;
+    }
+    .quicklink>h2{
+        margin-left: -50px !important;
+        font-size: 25px;
+        width: 250px;
+    }
+    .quicklink{
+        width: 300px !important;
+        margin-left: -20px !important;
+        display: grid !important;
+    }
+    .quicklink i{
+        margin-left: -50px !important;
+        margin-top: -30px !important;
+        font-size: 20px;
+        padding-top: -420px !important;
+    }
+    .quicklink a{
+        margin-left: -15px !important;
+        font-size: 16px !important;
+        margin-top: -50px !important;
+    }
+   
+    .newslatter>h2{
+        margin-left: -60px !important;
+        font-size: 25px;
+    }
+    .newslatter{
+        width: 300px;
+        display: grid !important;
+        gap: 0px !important;
+    }
+    .newslatter p{
+        font-size: 18px !important;
+        margin-left: -60px !important;
+        margin-top: -30px !important;
+        width: 200px !important;
+    }
+    .newslatter input{
+        height: 50px !important;
+        width: 120px !important;
+        padding: 15px !important;
+        margin-top: 250px !important;
+        margin-left: -60px !important;
+        position: absolute;
+        font-size: 15px;
+    }
+    .newslatter button{
+        height: 50px !important;
+        width: 60px !important;
+        font-size: 13px !important;
+        margin-left: 60px !important;
+        margin-top: -48px !important;
+    }
+    .end-footer{
+        background-color: #111111;
+        height: 130px !important;
+        width: 979px !important;
+        margin-top: -21px !important;
+    }
+    .end-footer a{
+        color: #FFF;
+        font-size: 20px !important;
+    }
+    .end-footer p{
+       
+        padding-top: 35px;
+        font-size: 20px !important;
+        color: #FFF;
+        line-height: 0px !important;
+        margin-left: 230px !important;
+    }
+}
+@media only screen and (min-width: 1074px) and (max-width: 1200px) {
+
+    .email{
+        display: block !important;
+        width: 85.5% !important;
+    }
+    .email>i{
+        font-size: 40px !important;
+        margin-top: 25px !important;
+    }
+    .email>h6{
+        font-size: 18px !important;
+        margin-top: -45px !important;
+        margin-left: 110px !important;
+      
+    }
+    .cake{ 
+        display: block !important;
+        width: 360px !important;
+        margin-left: 330px !important;
+    }
+    .cake>h1>a{
+        margin-left: 160px !important;
+        left: -150px !important;
+        padding: 20px 70px 25px 110px !important;
+        font-size: 28PX !important;
+
+    }
+    .cake i{
+        margin-left: -30px !important;
+        font-size: 40px !important;
+        margin-top: 5px;
+    }
+    .call{
+        display: block;
+        width: 80px !important;
+
+    }
+    .call>h6{
+        font-size: 20px !important;
+        margin-left: -220px;
+    }
+    .call>i{
+         font-size: 40px !important;
+         margin-top: 15px !important;
+         margin-left: -180px !important;
+    }
+    .call>p{
+        margin-top: -55px !important;
+        margin-left: -110px !important;
+    }
+    .menu{
+        width: 1011px !important;
+    }
+     .menu ul li a{
+        font-size: 12px !important; 
+        font-size: 18px !important;
+    } 
+   
+    .background-img{
+        height: 460px !important;
+        width: 1011px;
+    }
+    .text{
+        top: 60px !important;
+        left: 30px !important;
+        font-size: 18px !important;
+    }
+    .czone{
+        font-size: 24px !important;
+        top: 50px !important;
+    }
+    .cake-london{
+        width: 490px !important;
+        height: 60px;
+        left: 0px !important; 
+        top: 70px !important;
+    
+    }
+    .button{
+        top: 20px !important;
+        width: 160px !important;
+        height: 60px !important;
+    }
+    .button a{
+        left: 13px !important;
+        font-size: 16px !important;
+        top: 10px !important;
+    }
+    .btn-play{
+        top: 70px !important;  
+        left: 190px !important;
+    }
+    .cake-text{
+        left: 280px !important;
+        top: 190px !important;
+        font-size: 22px !important;
+    }
+    .about{
+        margin-top: -30px !important;
+        font-weight: 700 !important;
+        font-size: 50px !important;
+        margin-left: 0px !important;
+        width: 950px;
+       
+    }
+    .menu-text h3{
+        font-size: 35px !important;
+        height: 60px;
+        margin-left: 130px;
+    }
+    .menu-text h1{
+        font-size: 40px !important;
+        margin-top: -40px !important;
+        margin-left: 130px !important;
+    }
+    .menu-text hr{
+        margin-top: -21px !important;
+        margin-bottom: 16px !important; 
+      width: 150px !important;
+      margin-left: 460px !important;
+    }
+    .menu-text #ht{
+        margin-left: 505px !important;
+        height: 2px;
+        width: 60px !important;
+    }
+    .about-img{
+      left: 30px !important;
+      top: 900px !important;
+      width: 1000px !important;
+    }
+    .about-img img{
+        width: 370px !important;
+        height: 470px !important;
+    }
+    .about-text{
+        font-size: 19px !important;
+        width: 500px !important;
+        margin-left: 60px !important;
+        margin-top: -25px !important;
+       /* background-color: aqua; */
+    }
+    .about-text2{
+        font-size: 14px !important;
+        width: 450px !important;
+        margin-top: 20px !important;
+        /* background-color: aqua; */
+    }
+    .heart{
+        height: 100px !important;
+        width: 100px !important;
+        left: 430px !important;
+        top: 160px !important;
+    }
+    .award{
+        height: 100px !important;
+        width: 100px !important;
+        left: 700px !important;
+        top: 160px !important;
+    }
+    .heart-text{
+        margin-top: 260px !important;
+        margin-left: -500px !important;
+        font-size: 18px !important;
+        width: 200px !important;
+        /* background-color: aqua; */
+    }
+    .heart-text p{
+        width: 230px !important;
+        font-size: 14px !important;
+        font-weight: 500!important;
+        margin-top: -22px;
+        line-height: 22px;
+        /* background-color: aqua; */
+    }
+    .award-text{
+        margin-top: 260px !important;
+        width: 200px !important;
+        margin-left: 70px !important;
+        font-size: 18px !important;
+    }
+    .award-text p{
+        width: 230px !important;
+        font-size: 14px !important;
+        margin-top: -22px;
+        line-height: 22px;
+    }
+    .heart i{
+        font-size: 34px !important;
+        padding: 22px !important;  
+    }
+    .award i{
+        font-size: 34px !important;
+        margin-left: 10px !important;
+        padding: 22px 26px 20px 28px !important;
+    }
+    .main{
+        width: 1011px !important;
+        height: 250px !important;
+        display: flex !important; 
+        margin-top: 520px !important;
+    }
+    .in1{
+        height: 60px !important;
+        width: 60px !important;
+        padding: 10px !important;
+        margin-left: 50px !important;
+    }
+    .main h6{
+        width: 150px !important;
+        font-size: 14px !important;
+        margin-left: 60px !important;
+        margin-top: -50px !important;
+        /* background-color: aqua; */
+    }
+    .main .left1 h1{
+        margin-left: 60px !important;
+        margin-top: 200 !important;
+        top: 110px !important;
+        font-size: 30px !important;
+    }
+    .main i{
+        padding: 12px !important;
+        font-size: 20px !important;
+        margin-left: -5px !important;
+        margin-top: -5px !important;
+    }
+    .in2{
+        height: 60px !important;
+        width: 60px !important;
+        padding: 10px !important;
+        margin-left: 35px !important;
+    }
+    .main .left2 h1{
+        top: 110px !important;
+        font-size: 30px !important;
+        left: 300px !important;
+    }
+    .main .left2 h6{
+        width: 140px !important;
+    }
+    .in3{
+        height: 60px !important;
+        width: 60px !important;
+        padding: 12px 10px 30px 14px !important;
+        margin-top: 100px !important;
+        margin-left: 20px !important;
+    }
+    .main .right1 h1{
+        top: 110px !important;
+        left: 540px !important;
+        font-size: 30px !important;
+    }
+    .main .right1 h6{
+        width: 150px !important;
+        top: 0px !important;
+        /* background-color: #FFF !important; */
+    } 
+    .in4{
+        height: 60px !important;
+        width: 60px !important;
+        padding: 13px 20px 28px 12px !important;
+        margin-top: 100px !important;
+        margin-left: 10px !important;
+    }
+    .main .right2 h1{
+        top: 110px !important;
+        left: 780px !important;
+        font-size: 30px !important;
+    }
+    .menu_pricing .menu-text h3{
+        width: 300px;
+        margin-left: -130px;
+        font-size: 30px !important;
+    }
+    .menu_pricing .menu-text h1{
+        font-size: 35px !important;
+        width: 450px;   
+        margin-left: -130px !important;
+    }
+    .menu-text hr{
+        margin-left: 450px;
+        /* width: 200px !important; */
+    }
+    .menu-text #ht{
+        margin-left: 500px;
+        /* width: 200px !important; */
+    }
+    .menu-design ul{
+        height: 80px !important;
+        width: 310px !important;
+        padding: 30px 0px 10px 0px !important;
+        margin-left: -120px;
+    } 
+    .menu-design li{
+        padding: 20px 15px 22px 15px !important;
+    }
+    .menu-design a{
+        font-size: 12px !important;
+    }
+    .main-menu{
+        width: 100%;
+        display: flex !important;
+    }
+    .menu-left{
+        width: 100% !important;
+    }
+    .menu-right{
+        width: 100% !important;
+        margin-left: 90px !important; 
+        margin-top: -22px;
+    }
+    .left-img img{
+        height: 80px; 
+        margin-left: 20px !important;
+    }
+    .left-img h2{
+        width: 25.8% !important;
+        height: 50px !important;
+        padding-top: 10px !important; 
+        font-size: 25px;
+        margin-left: 20px !important;
+        /* padding-bottom: 50px !important; */
+    }
+    .left-text{
+        height: 130px !important;
+        margin-top: -150px !important;
+        padding: 5px 6px 50px 6px !important;
+        font-size: 19px !important;
+        width: 320px !important;
+        margin-left: 160px !important;
+    }
+    .left-text .lt h5{
+        line-height: 10px;
+    }
+    .lt{
+        padding: 5px 5px 20px 8px !important;
+        border: 3px solid white !important;
+        /* margin-top: 0px; */
+    }
+    .rt-image img{
+        height: 80px;
+        margin-left: -10px !important;
+        margin-top: 73px !important;
+        
+    }
+    .rt-image h2{
+        width: 22% !important;
+        height: 50px !important;
+        padding-top: 10px !important;
+        font-size: 25px; 
+        margin-left: -10px !important;
+    }
+    .rt-text{
+        height: 130px !important;
+        margin-top: -150px !important;
+        padding: 10px 10px 5px 10px !important;
+        font-size: 19px !important;
+        width: 320px !important;
+        margin-left: 130px !important;
+    }
+    .rt-text .let h5{
+        line-height: 5px !important;
+    }
+    .let{
+        padding: 5px 5px 18px 8px !important;
+        border: 2px solid white !important;
+    }
+    .rt-b .rt-image img{
+        height: 80px;
+        margin-left: -10px !important;
+        margin-top: 50px !important;
+        
+    }
+    .rt-c .rt-image img{
+        height: 80px;
+        margin-left: -10px !important;
+        margin-top: 50px !important;
+        
+    }
+   
+    .service{
+        width: 1011px !important;
+        height: 400px !important;
+        display: flex !important;
+    }
+    .birthday-cake{
+        width: 26% !important;
+        height: 240px !important;
+        left: 45px !important;
+        display: block !important;
+    }
+    .btc{
+        padding: 0px 22px 12px 22px !important;
+    }
+    .birthday-cake h3{
+        font-size: 18px !important;
+    }
+    .birthday-cake p{
+        font-size: 16px !important;
+        padding-bottom: 25px;
+        width: 180px;
+        margin-left: 15px;
+    }
+    .birthday-cake a{
+        font-size: 17px !important;
+        margin-left: 40px !important;
+        /* margin-top: -50px !important; */
+    }
+    .wedding-cake{
+        width: 26% !important;
+        height: 240px !important;
+        margin-top: -20px !important; 
+        left: 20px !important;
+    }
+    .wedding-cake h3{
+        font-size: 18px !important;
+    }
+    .wedding-cake p{
+        font-size: 16px !important;
+        padding-bottom: 25px;
+        width: 180px;
+        margin-left: 15px;
+    }
+    .wedding-cake a{
+        font-size: 17px !important;
+        margin-left: 40px !important;
+    }
+    .custom-cake{
+        width: 26% !important;
+        height: 240px !important;
+        margin-top: -20px !important;
+        left: -60px !important;
+    }
+    .custom-cake h3{
+        font-size: 18px !important;
+    }
+    .custom-cake p{
+        font-size: 16px !important;
+        padding-bottom: 25px;
+        width: 180px;
+        margin-left: 15px;
+    }
+    .custom-cake a{
+        font-size: 17px !important;
+        margin-left: 40px !important;
+    }
+    .discount h1{
+        margin-top: 200px !important;
+        margin-left: 96px !important;
+        font-size: 25px !important;
+        position: absolute;
+        width: 790px;
+    }
+    .button2{
+        height: 55px !important;
+        width: 155px !important;
+        top: 250px !important;
+        left: 430px !important;
+    }
+    .button2 a{
+        padding-top: 8px !important;
+        padding-bottom: 12px !important;      
+        font-size: 15px !important;
+        left: 5px !important;
+    }
+
+    .team .menu-text h3{
+        width: 500px;
+        margin-left: -100px;
+        font-size: 30px !important;
+    }
+    .team .menu-text h1{
+        font-size: 35px !important;
+        width: 1050px;  
+        margin-left: -100px !important; 
+    }
+    .team hr{
+        margin-left: 450px;
+    }
+    .team #ht{
+        margin-left: 500px;
+    }
+    .teammember-box{
+        display: flex !important;
+        margin-left: 15px;
+        width: 1011px;
+        height: 500px;
+    }
+    .teammember-box .member3 .hidden{
+        height: 100px !important;
+        margin-bottom: 60px; 
+        margin-top: -46px !important;
+        width: 290px;
+    }
+    .member3 .hidden .hidden1{
+        padding:0px 5px 0px 25px !important;
+        /* margin-top: -50px; */
+    }
+    .teammember-box .member3 .hidden h2{
+        font-size: 20px;
+    }
+    .member3 .hidden p{
+        font-size: 16px;
+    }
+    .teammember-box .member3 .icons img{
+        width: 350px !important;
+        height: 350px !important;
+        margin-top: 80px;
+        margin-left: -60px;
+       
+    }
+  
+    .teammember-box .member3 .icons .ic i{
+        font-size: 18px !important;
+        margin-left: 10px !important;
+        left: 30px !important;
+    }
+    /* .icons .ic .ict i{
+        border:1px solid white;
+        padding: 15px 15px 15px 15px;
+    } */
+    .special{
+        width: 1011px !important;
+        height: 500px !important;
+        margin-bottom: 20px;
+    }
+    .special_menu .menu-text h3{
+        width: 600px;
+        margin-left: 0px !important;
+        font-size: 30px !important;
+        padding-bottom: 80px !important;
+    }
+    .special_menu .menu-text h1{
+        font-size: 35px !important;
+        width: 1050px; 
+        margin-top: -50px !important; 
+        margin-left: -25px !important;
+        padding-bottom: 10px;
+    }
+    .special_menu hr{
+        margin-left: 410px !important;
+        /* width: 200px !important; */
+    }
+    .special_menu #ht{
+        margin-left: 460px !important;
+    }
+    .special-info{
+        margin-left: 220px !important;
+        font-size: 17px !important;
+        margin-top: 30px !important;
+        width: 550px !important;
+    }
+    .button3{
+        height: 55px !important;
+        width:  155px !important;
+        left: 60px !important; 
+        top: 20px !important;
+    }
+    .button3 a{
+        padding-top: 11px !important;
+        padding-bottom: 9px !important;
+        font-size: 15px !important;
+    }
+    .button4{
+        height: 55px !important;
+        width: 155px !important;
+        top: -15px !important;
+        left: 505px !important;
+    }
+    .button4 a{
+        padding-top: 10px !important;
+        padding-bottom: 9px !important;
+        font-size: 15px !important;
+        padding-right: 25px !important;
+    }
+    .main-client{
+        width: 100%;
+        display: flex !important;
+        height: 100px;
+    
+    }
+    .client_menu .menu-text h3{
+        width: 920px !important;
+        margin-left: -170px !important;
+        font-size: 30px !important;
+        padding-bottom: 80px !important;
+    }
+    .client_menu .menu-text h1{
+        font-size: 35px !important;
+        width: 1050px; 
+        margin-top: -50px !important; 
+        margin-left: -170px !important;
+        padding-bottom: 10px;
+    }
+    .client_menu hr{
+        margin-left: 420px !important;
+    }
+    .client_menu #ht{
+        margin-left: 460px !important;
+    }
+    .main-client .left{
+        display: block;
+        width: 300px !important;
+        height: 185px !important;
+        margin-left: 20px;
+       
+    }
+    .left .leftz{
+        padding: 10px 10px 115px 0px;
+      
+    }
+    .leftz .left-ig img{
+           width: 80px !important;
+           height: 100px !important;
+           padding-bottom: 40px;
+           margin-left: px;
+           margin-top: -15px;
+    }
+    .leftz .left-client h2{
+        font-size: 21px !important;
+        margin-left: 5px !important;
+        width: 150px !important;
+        margin-top: -110px !important;
+        top: 10px !important;
+        position: relative;
+    } 
+    .leftz .left-pro p{
+            font-size: 18px !important;
+            margin-left: 5px !important;
+            margin-top: 25px !important;
+    }
+    .leftz .left-p p{
+        font-size: 12px !important;
+        width: 260px !important;
+        line-height: 20px;
+        margin-bottom: 30px !important;
+       
+        margin-left: -90px;
+    }
+    .center{
+        width: 300px !important;
+        height: 185px !important;
+        margin-left: 30px !important;
+    }
+    .center .leftz{
+        padding: 10px 10px 115px 10px ;
+    }
+    .center .leftz .left-ig img{
+           width: 80px !important;
+           height: 100px !important;
+           padding-bottom: 40px;
+           margin-left: -10px;
+           margin-top: -15px;
+    }
+    .center .leftz .left-client h2{
+        font-size: 21px !important;
+        margin-left: 0px !important;
+        width: 200px !important;
+        margin-top: -110px !important;
+        top: 10px !important;
+        position: relative;
+    } 
+    .center .leftz .left-pro p{
+            font-size: 18px !important;
+            margin-left: 0px !important;
+            margin-top: 25px !important;
+    }
+    .center .leftz .left-p p{
+        font-size: 12px !important;
+        width: 260px !important;
+        line-height: 20px;
+        margin-bottom: 30px !important;
+        padding-top: 0px;
+        margin-left: -100px;
+    }
+    .right{
+        display: block;
+        width: 300px !important;
+        height: 185px !important;
+        margin-left: 30px !important;
+    } 
+    .right .leftz{
+        padding: 10px 10px 115px 0px;
+    }
+    .main-footer{
+        height: 350px !important;
+        width: 1011px !important;
+        display: flex !important;
+        margin-top: 280px !important;
+    } 
+    .cake-footer{
+        width: 300px !important;
+        height: 400px !important;
+        padding: 10px 10px 10px 10px !important;
+        margin-left: 30px !important;
+        margin-top: 30px !important;
+    }
+    .cake-footer>h1>a{
+        left: -50px !important;
+        padding: 40px 30px 300px 80px !important;
+        font-size: 30px;
+    }
+    .cake-footer>i{
+        font-size: 50px !important;
+        left: 40px !important;
+    }
+    .cake-footer>p{
+        font-size: 20px !important;
+        line-height: 25px !important;
+    }
+    .touch>h2{
+        margin-left: 20px !important;
+        font-size: 20px;
+        width: 250px !important;
+    }
+    .touch{
+        width: 300px;
+        margin-left: 15px !important;
+    }
+    .touch>i{
+        font-size: 13px !important;
+        margin-left: 20px !important;
+    }
+    .touch>p{
+        margin-left: 50px !important;
+        margin-top: -18px !important;
+        font-size: 17px !important;
+        width: 150px !important;
+        /* background-color: #E88F2A; */
+    }
+    .itc>i{
+        padding: 10px 10px 10px 15px !important;
+        margin-left: 10px !important;
+        font-size: 13px;
+    }
+    .iz{
+        padding-left: 20px !important;
+        width: 300px;
+        margin-top: 40px !important;
+    }
+    .quicklink>h2{
+        margin-left: -50px !important;
+        font-size: 20px;
+        width: 250px;
+    }
+    .quicklink{
+        width: 300px !important;
+        margin-left: -20px !important;
+        display: grid !important;
+    }
+    .quicklink i{
+        margin-left: -50px !important;
+        margin-top: -30px !important;
+        font-size: 15px;
+        padding-top: -420px !important;
+    }
+    .quicklink a{
+        margin-left: -15px !important;
+        font-size: 17px !important;
+        margin-top: -50px !important;
+    }
+   
+    .newslatter>h2{
+        margin-left: -60px !important;
+        font-size: 20px;
+    }
+    .newslatter{
+        width: 300px;
+        display: grid !important;
+        gap: 0px !important;
+    }
+    .newslatter p{
+        font-size: 17px !important;
+        margin-left: -60px !important;
+        margin-top: -30px !important;
+        width: 200px !important;
+    }
+    .newslatter input{
+        height: 50px !important;
+        width: 140px !important;
+        padding: 15px !important;
+        margin-top: 200px !important;
+        margin-left: -60px !important;
+        position: absolute;
+        font-size: 16px;
+    }
+    .newslatter button{
+        height: 50px !important;
+        width: 70px !important;
+        font-size: 15px !important;
+        margin-left: 80px !important;
+        margin-top: -96px !important;
+    }
+    .end-footer{
+        background-color: #111111;
+        height: 130px !important;
+        width: 1011px !important;
+        margin-top: -21px !important;
+    }
+    .end-footer a{
+        color: #FFF;
+        font-size: 18px !important;
+    }
+    .end-footer p{
+       
+        padding-top: 35px;
+        font-size: 18px !important;
+        color: #FFF;
+        line-height: 0px !important;
+        margin-left: 190px !important;
+    }
+}
+.email{
+    background-color: #FAF3EB;
+    height: 100px;
+    width: 400px;
+    display: flex;
+    margin-top: -3px;
+
+}
+.email>i{
+    font-size: 50px;
+    color: #E88F2A;
+    padding: 5px;
+    margin-left: 50px;
+    margin-top: 20px;
+}
+.email>h6{
+    font-size: larger;
+    margin-top: 30px;
+    margin-left: 20px;
+    font-family: "Oswald",sans-serif;
+}
+.cake{
+    background-color: #E88F2A;
+    height: 100px;
+    width: 500px;
+    margin-left: 400px;
+    margin-top: -121px;
+    position: relative;
+    
+}
+.cake>h1>a{
+    position: absolute;
+    text-decoration: none;
+    margin-left: 60px;
+    top: 10px;
+    left: -45px;
+    background-color: #E88F2A;
+    border: 2px solid white;
+    padding: 20px 140px 20px 140px;
+    color: #FFF;
+    font-family: "Oswald",sans-serif;
+    
+    
+}
+.cake>i{
+    font-size: 50px;
+    position: absolute;
+    left: 90px;
+    top: 23px;
+    color: #2B2825 ;
+    
+}
+.call{
+    height: 100px;
+    width: 432px;
+    background-color:#FAF3EB ;
+    /* margin-left: 120px; */
+    /* margin-top: 10px; */
+    position: absolute;
+    left: 908px;    
+    top: 5px;
+
+}
+.call>h6{
+    font-size: larger;
+    font-family: "Oswald",sans-serif;
+    text-align: center;
+    margin-top: -40px;
+}
+.call>i{
+      
+     font-size: 40px;
+     margin-top: 20px;
+     margin-left: 100px;
+     padding: 10px;
+     height: 50px;
+     width: 50px;
+     color: #E88F2A;
+}
+.call>p{
+    margin-top: -60px;
+    margin-left: 180px;
+}
+.menu{
+    width: 100%;
+    height: 80px;
+    background-color: #2B2825;
+    /* display: inline-block; */
+    position: sticky;
+    top: 0;
+    z-index: 1;
+
+}
+.menu ul{
+    margin-top: 15px;
+    margin: 0;
+    padding: 0;
+} 
+ .menu ul li a{
+   text-decoration: none;
+   font-family: 'Oswald', sans-serif;
+   color: #FFF;
+   padding: 15px 5px;
+   font-size: 18px;
+   display: block;
+   transform: 10s;
+
+} 
+.menu ul li{
+    display: inline-block;
+    /* position: relative; */
+    padding: 10px;
+} 
+.menu-one a{
+    color: #E88F2A !important;
+}
+ .menu ul li ul.dropdown
+{
+    display: none;
+    /* position: absolute; */
+ 
+} 
+ .menu ul li:hover ul.dropdown
+{
+    display: block;
+} 
+.menu a:hover{
+    color: #E88F2A;
+    transition: .5s;
+
+}
+.background-img{
+    background: url(hero.jpg) top right no-repeat;
+    background-size: cover;
+    height: 550px;
+    display: hidden;
+    position: relative;
+   
+ 
+  
+}
+.text{
+    font-family: 'Pacifico', cursive;
+    color: #E88F2A !important;
+    font-weight: 700 !important;
+    position: absolute;
+    top: 70px;
+    left: 120px;
+    font-size: 20px;
+}
+.czone{
+    color: #fff !important;
+    font-family: "Oswald",sans-serif;
+    font-size: 30px;
+    top: 60px;
+    position: absolute;
+}
+.cake-london{
+    color: #fff !important;
+    font-family: "Oswald",sans-serif;
+    font-weight: 700 !important;
+    width: 500px;
+    position: absolute;
+    left: -10px;
+    top: 100px;
+
+}
+.button{
+    height: 70px;
+    width: 170px;
+    background-color: #E88F2A;
+    color: #FFF;
+    position: relative;
+    top: 30px;
+
+}
+.button a{
+    text-decoration: none;
+    padding: 10px;
+    border: 1px solid #fff;
+    font-family: 'Oswald', sans-serif;
+    font-size: 15px;
+    position: absolute;
+    left: 20px;
+    top: 15px;
+    padding-left: 25px;
+    padding-right: 25px;
+    color: #FFF;
+    font-weight: 600;
+    transition: .5s;
+}
+.button a:hover{
+    color: black;
+}
+.btn-play{
+    position: relative;
+    display: block;
+    box-sizing: content-box;
+    width: 16px;
+    height: 26px;
+    border-radius: 100%;
+    border: none;
+    outline: none !important;
+    padding: 18px 20px 20px 28px;
+    background: #FFFFFF;
+    cursor: pointer;
+    top: 105px;
+    left: 200px;
+}
+.cake-video i{
+    color: #E88F2A;
+    font-size: 25px;
+    position: absolute;
+    top: 18px;
+    left: 24px;
+}
+.cake-text{
+    color: #FFF;
+    left: 290px;
+    position: absolute;
+    width: 160px;
+    height: 70px;
+    top: 260px;
+    font-size: 18px;
+    font-family: "oswald",sans-serif !important;
+    font-weight: 600;
+
+}
+.about-us .menu-text{
+    margin-top: 90px;
+    font-family: 'Pacifico',cursive;
+    color: #E88F2A;
+    font-weight: 700 !important;
+    font-size: 20px;
+}
+.about-us .menu-text h1{
+    color: #2B2825;
+    text-transform: uppercase;
+    font-family: "Oswald",sans-serif;
+    font-size: 50px;
+    margin-top: -8px;
+}
+.menu-text.line1{
+    position: absolute;
+    content: "";
+    width: 60px;
+    height: 10px;
+    left: 50%;
+    bottom: 0;
+    margin-left: -30px;
+    background: var(--primary);
+    top: 960px;
+    
+}
+.about .menu-text .line2{
+    position: absolute;
+    content: "";
+    width: 180px;
+    height: 2px;
+    left: 50%;
+    bottom: 4px;
+    margin-left: -90px;
+    background: var(--primary);
+}
+.about-img{
+   object-fit: cover;
+   position: absolute;
+  left: 120px;
+  top: 1050px;
+  display: flex;
+  height: 500px;
+
+}
+.about-text{
+    font-size: calc(1.275rem + .3vw);
+    font-family: "Oswald",sans-serif;
+    color: #2B2825;
+    width: 650px;
+    margin-left: 50px;
+    margin-top: -20px;
+}
+.about-text2{
+    font-size: 18px;
+    width: 600px;
+    font-weight: 500;
+    margin-left: 2px;
+}
+.heart{
+    height: 100px;
+    width: 100px;
+    background-color: #E88F2A;
+    position: absolute;
+    left: 501px;
+    top: 210px;
+    display: flex;
+}
+.award{
+    height: 100px;
+    width: 100px;
+    background-color: #E88F2A;
+    position: absolute;
+    left: 800px;
+    top: 210px;
+}
+.heart-text{
+    color: #2B2825;
+    margin-top: 300px;
+    text-transform: uppercase;
+    width: 230px;
+    height: 50px;
+    margin-left: -650px;
+    /* background-color: yellow; */
+    font-weight: 600 !important;
+    font-size: 25px;
+    font-family: "Oswald",sans-serif;
+}
+.heart-text p{
+    width: 240px;
+    font-size: 15px;
+    text-transform: capitalize;
+    font-weight: 500!important;
+    /* background-color: yellow; */
+
+}
+.award-text{
+    color: #2B2825;
+    margin-top: 300px;
+    text-transform: uppercase;
+    width: 230px;
+    height: 50px;
+    margin-left: 70px;
+    font-weight: 600 !important;
+    font-size: 25px;
+    font-family: "Oswald",sans-serif;
+
+}
+.award-text p{
+    width: 240px;
+    font-size: 15px;
+    text-transform: capitalize;
+    font-weight: 500!important;
+}
+.heart i{
+    color: #FFF;
+    font-size: 40px;
+    border: 1px solid #fff;
+    padding: 18px;
+    margin-left: 8px;
+    padding-top: -10px;
+    margin-top: 9px;
+    margin-bottom: 9px;
+
+
+   
+}
+.award i{
+    color: #FFF;
+    margin-top: 10px;
+    font-size: 40px;
+    border: 1px solid #fff;
+    padding: 23px;
+    margin-left: 10px;
+    padding-top: 18px;
+    padding-bottom: 19px;
+}
+.main{
+    width: 100%;
+    height: 280px;
+    background: linear-gradient(rgba(43, 40, 37, .5), rgba(43, 40, 37, .5)), url(bg.jpg) center center no-repeat;
+    background-size: cover;
+    display: flex;
+    /* border: 2px solid black ; */
+    margin-top: 599px;
+    position: relative;
+
+
+}
+.left1{
+    width: 25%;
+    display: flex;
+}
+.in1{
+    height: 65px;
+    width: 65px;
+    background-color: #E88F2A;
+    padding: 25px;
+    margin-top: 100px;
+    margin-left: 100px;
+}
+.main h6{
+    color:#E88F2A;
+    font-family: "Oswald",sans-serif;
+    text-transform: uppercase;
+    width: 140px;
+    font-size: 15px;
+    margin-left: 65px;
+    margin-top: -53px;
+    height: 20px;
+
+
+}
+.main h1{
+    font-family: "Oswald",sans-serif;
+    color: #FFF;
+    margin-left: 60px;
+    margin-top: -20;
+    position: absolute;
+    top: 80px;
+    font-size: 55px;
+}
+.main i{
+    padding: 12px;
+    font-size: 20px;
+    border: 1px solid white;
+    color: #FFF;
+    margin-left: -18px;
+    margin-top: -18px;
+}
+.left2{
+    width: 25%;
+    display: flex;
+}
+.in2{
+    height: 65px;
+    width: 65px;
+    background-color: #E88F2A;
+    padding: 25px;
+    margin-top: 100px;
+    margin-left: 80px;
+}
+
+.right1{
+    width: 25%;
+}
+.in3{
+    height: 65px;
+    width: 65px;
+    background-color: #E88F2A;
+    padding: 25px 5px 5px 29px;
+    margin-top: 100px;
+    margin-left: 40px;
+}
+.right2{
+    width: 25%;
+    display: flex;
+}
+.in4{
+    height: 65px;
+    width: 65px;
+    background-color: #E88F2A;
+    padding: 25px 5px 5px 28px;
+    margin-top: 100px;
+    margin-left: 10px;
+}
+.menu-text h3{
+    font-family: 'Pacifico', cursive;
+    color: #E88F2A;
+    font-weight: 700 !important;
+    font-size: 30px;
+    margin-top: 100px;
+}
+.menu-text h1{
+    font-family: "Oswald",sans-serif;
+    font-weight: 700 !important;
+    color: #2B2825;
+    text-transform: uppercase;
+    margin-top: -15px;
+    font-size: 40px;
+}
+.menu-text hr{
+    width: 170px;
+    background-color: #E88F2A;
+    height: 1px;
+    /* color: #E88F2A; */
+    border: 1px solid #E88F2A;
+    /* background: #E88F2A; */
+    margin-top: -10px;
+}
+.menu-text #ht{
+    height: 10px;
+    width: 70px;
+    background-color: #E88F2A;
+    margin-top: -14px;
+}
+.menu-design ul{
+    height: 100px;
+    width: 400px;
+    background-color: #2B2825;
+    /* position: relative; */
+    margin-top: 40px;
+    padding: 40px 0px 0px 0px;
+    
+} 
+.menu-design li{
+    display: inline;
+    /* background-color: aqua; */
+    padding: 30px 20px 33px 20px;
+    /* position: absolute; */
+    border-right: 0px;
+    border-top: 1px solid white;
+    border-bottom: 1px solid white;
+    border-right: 1px solid white;  
+}
+.menu-design a{
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #FFF;
+    font-size: 16px;
+    
+    
+
+}
+.nav-item1{
+    border-right: 0px !important;
+    border-left: 1px solid white;
+}
+.nav-item1 a{
+    background-color: #E88F2A;
+    padding: 15px;
+    margin-left: -8px;
+}
+.nav-item2{
+    border-right: 0px !important;
+}
+.main-menu{
+    width: 100%;
+    display: flex;
+}
+.menu-left{
+    width: 50%;
+    /* background-color: aqua; */
+}
+.menu-right{
+    width: 50%;
+    /* background-color: blue; */
+    /* height: 200px; */
+    margin-left: 0px;
+
+}
+.left-img img{
+    margin-left: 100px;
+    margin-top: 50px;
+    /* display: flex; */
+}
+.left-img h2{
+    background-color: #2B2825;
+    color: #E88F2A;
+    width: 22.5%;
+    text-align: center;
+    height: 50px;
+    margin-top: -4px;
+    margin-left: 100px;
+    padding-top: 10px;
+    
+}
+.left-text{
+    background-color: #FAF3EB; 
+    height: 135px;
+    margin-top: -155px;
+    padding: 5px;
+    color: black;
+    padding: 10px 10px 10px 10px;
+    font-size: 20px;
+    /* display: flex; */
+    width: 410px;
+    margin-left: 250px;
+}
+.lt{
+    padding: 5px 5px 12px 8px;
+    border: 1px solid white;
+}
+.lt h5{
+    text-transform: uppercase;
+    margin-top: 5px;
+    font-family: "Oswald",sans-serif;
+}
+.left-b{
+    margin-top: -30px;
+}
+.left-c{
+    margin-top: -30px;
+}
+.rt-image img{
+    margin-left: 100px;
+    margin-top: 50px;
+    /* display: flex; */
+}
+.rt-image h2{
+    background-color: #2B2825;
+    color: #E88F2A;
+    width: 22.5%;
+    text-align: center;
+    height: 50px;
+    margin-top: -4px;
+    margin-left: 100px;
+    padding-top: 10px;
+    
+}
+.rt-text{
+    background-color: #FAF3EB; 
+    height: 135px;
+    margin-top: -155px;
+    padding: 5px;
+    color: black;
+    padding: 10px 10px 10px 10px;
+    font-size: 20px;
+    /* display: flex; */
+    width: 410px;
+    margin-left: 250px;
+}
+.let{
+    padding: 5px 5px 12px 8px;
+    border: 1px solid white;
+}
+.let h5{
+    text-transform: uppercase;
+    margin-top: 5px;
+    font-family: "Oswald",sans-serif;
+}
+.rt-a{
+    margin-left: -90px;
+}
+.rt-b{
+    margin-left: -90px;
+    margin-top: -29.5px;
+}
+.rt-c{
+    margin-left: -90px;
+    margin-top: -29.5px;
+}
+.service{
+    background: linear-gradient(rgba(43, 40, 37, .9), rgba(43, 40, 37, .9)), url(service.jpg) center center no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 400px;
+    margin-top: 200px;
+    position: relative;
+    display: flex;
+}
+.birthday-cake{
+    width: 25%;
+    height: 270px;
+    background-color: #E88F2A;
+    padding: 10px 10px 10px 10px;
+    margin-top: -20px;
+    position: absolute;
+    top: -70px;
+    left: 100px;
+    display: flex;
+
+}
+.btc{
+    padding: 5px 22px 30px 22px;
+    border: 1px solid white;
+}
+.birthday-cake h3{
+    text-transform: uppercase;
+    font-family: "Oswald",sans-serif;
+    text-align: center;
+    font-size: 25px;
+}
+.birthday-cake p{
+    color: #FFF;
+    text-align: center;
+    font-size: 20px;
+}
+.birthday-cake a{
+    text-transform: uppercase;
+    text-decoration: none;
+    color: #2B2825;
+    font-size: 20px;
+    margin-left: 70px;
+}
+.birthday-cake i{
+    /* font-weight: 300; */
+    margin-left: 1px;
+}
+.wedding-cake{
+    width: 25%;
+    height: 270px;
+    background-color: #E88F2A;
+    padding: 10px 10px 10px 10px;
+    margin-top: -20px;
+    position: absolute;
+    top: -70px;
+    left: 150px;
+    margin-left: 350px;
+}
+.wedding-cake h3{
+    text-transform: uppercase;
+    font-family: "Oswald",sans-serif;
+    text-align: center;
+    font-size: 25px;
+}
+.wedding-cake p{
+    color: #FFF;
+    text-align: center;
+    font-size: 20px;
+}
+.wedding-cake a{
+    text-transform: uppercase;
+    text-decoration: none;
+    color: #2B2825;
+    font-size: 20px;
+    margin-left: 70px;
+}
+.wedding-cake i{
+    /* font-weight: 300; */
+    margin-left: 1px;
+}
+.custom-cake{
+    width: 25%;
+    height: 270px;
+    background-color: #E88F2A;
+    padding: 10px 10px 10px 10px;
+    margin-top: -20px;
+    position: absolute;
+    top: -70px;
+    left: 150px;
+    margin-left: 750px;
+}
+.custom-cake h3{
+    text-transform: uppercase;
+    font-family: "Oswald",sans-serif;
+    text-align: center;
+    font-size: 25px;
+}
+.custom-cake p{
+    color: #FFF;
+    text-align: center;
+    font-size: 20px;
+}
+.custom-cake a{
+    text-transform: uppercase;
+    text-decoration: none;
+    color: #2B2825;
+    font-size: 20px;
+    margin-left: 70px;
+}
+.custom-cake i{
+    /* font-weight: 300; */
+    margin-left: 1px;
+}
+.discount h1{
+    font-family: "Oswald",sans-serif;
+    margin-top: 230px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #FFF;
+    margin-left: 360px;
+    font-weight: 700;
+    font-size: 35px;
+}
+.button2{
+    height: 60px;
+    width: 160px;
+    background-color: #E88F2A;
+    color: #FFF;
+    position: relative;
+    top: -10px;
+    left: 550px;
+    /* padding: 15px 15px 15px 15px; */
+
+}
+.button2 a{
+    text-decoration: none;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    border: 1px solid #fff;
+    font-family: 'Oswald', sans-serif;
+    font-size: 15px;
+    position: absolute;
+    left: 8px;
+    top: 8px;
+    padding-left: 35px;
+    padding-right: 30px;
+    color: #FFF;
+    font-weight: 600;
+    transition: .5s;
+    /* padding: 10px 20px 10px 35px ; */
+}
+.button2 a:hover{
+    color: black;
+}
+.team-overlay{
+    width: 100%;
+    height: 300px;
+    /* background-color: aqua; */
+    display: flex;
+    margin-top: 50px;
+}
+.team1{
+    margin-left: 90px;
+}
+.team2{
+    margin-left: 50px;
+}
+.team3{
+    margin-left: 50px;
+}
+.team1-text{
+    height: 100px;
+    width: 350px;
+    background-color: #2B2825;
+    margin-top: -5px;
+    padding: 6px 7px 0px 7px;
+}
+.team-a{
+    border: 1px solid white;
+    padding: 0px 10px 0px 90px;
+}
+.team1-text h3{
+    font-family: "Oswald",sans-serif;
+    text-transform: uppercase;
+    color: #E88F2A;
+    font-size: 25px;
+    margin-top: 8px;
+
+}
+.team1-text h5{
+     color: #FFF;
+     font-family: "Oswald",sans-serif;
+     margin-top: -18px;
+     font-size: 16px;
+     /* background-color: aqua; */
+     margin-left: 28px;
+}
+
+
+.teammember-box{
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+}
+
+
+
+.teammember-box .member3{
+    overflow: hidden;
+}
+.teammember-box .member3 .hidden{
+    background-color: #2B2825;
+    height: 130px;
+    margin-top: -44px;
+    z-index: 25;
+    position: relative;
+    text-align: center;
+    padding: 40px 8px 5px 8px;
+   
+}
+.member3 .hidden .hidden1{
+    padding:0px 5px 15px 25px;
+    border: 1px solid white;
+    margin-top: -35px;
+    /* position: absolute; */
+}
+.teammember-box .member3 .hidden h2{
+    color: #E88F2A;
+    line-height: 2;
+    font-family:"Oswald",sans-serif;
+    text-transform: uppercase;
+}
+.member3 .hidden p{
+    color: #FFF;
+    margin-top: -20px;
+    font-family:"Oswald",sans-serif;
+}
+.teammember-box .member3 .icons img{
+    width: 350px;
+    height: 380px;
+    transition: all 0.3s linear;
+    /* margin-top: 50px; */
+}
+.teammember-box .member3 .icons:hover img{
+    transform: scale(1.1);
+    filter: blur(5px);
+}
+.teammember-box .member3 .icons i{
+    background-color: #E88F2A;
+    /* padding: 18px; */
+    padding: 10px 10px 10px 10px;
+    /* border-radius: 4px; */
+    color:white;
+    font-size: 18px;
+    transform: translate(60px,-170px);
+    opacity: 0;
+    z-index: 25;
+    transition: all 0.3s;
+    /* margin-top: -30px; */
+    margin-left: 20px;
+    /* position: absolute; */
+    /* top: -150px; */
+    /* left: 50px; */
+}
+.icons .ic i{
+    /* position: absolute; */
+    /* top: -100px; */
+    border:1px solid white;
+    padding: 15px 15px 15px 15px;
+}
+
+.teammember-box .member3 .icons i:hover{
+    color: black;
+    cursor: pointer;
+}
+.teammember-box .member3 .icons:hover i{ 
+    transform: translate(60px,-170px);
+    z-index: 25;
+    opacity: 1;
+}
+.special{
+    background: linear-gradient(rgba(43, 40, 37, .9), rgba(43, 40, 37, .9)), url(offer.jpg) center center no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 450px;
+}
+.special-info{
+    /* background-color: #2B2825; */
+    color: #FFF;
+    width: 600px;
+    height: 100px;
+    margin-left: 380px;
+    text-align: center;
+    font-size: 18px;
+    margin-top: 25px;
+}
+.button3{
+    height: 60px;
+    width: 160px;
+    background-color: #E88F2A;
+    color: #FFF;
+    position: relative;
+    top: -4px;
+    left: 135px;
+    /* padding: 15px 15px 15px 15px; */
+
+}
+.button3 a{
+    text-decoration: none;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    border: 1px solid #fff;
+    font-family: 'Oswald', sans-serif;
+    font-size: 15px;
+    position: absolute;
+    left: 8px;
+    top: 8px;
+    padding-left: 35px;
+    padding-right: 30px;
+    color: #FFF;
+    font-weight: 600;
+    transition: .5s;
+    /* padding: 10px 20px 10px 35px ; */
+}
+.button3 a:hover{
+    color: black;
+}
+.button4{
+    height: 60px;
+    width: 160px;
+    background-color: #2B2825;
+    color: #FFF;
+    position: relative;
+    top: -38px;
+    left: 715px;
+    /* padding: 15px 15px 15px 15px; */
+
+}
+.button4 a{
+    text-decoration: none;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    border: 1px solid #fff;
+    font-family: 'Oswald', sans-serif;
+    font-size: 15px;
+    position: absolute;
+    left: 8px;
+    top: 8px;
+    padding-left: 35px;
+    padding-right: 30px;
+    color: #FFF;
+    font-weight: 600;
+    transition: .5s;
+    /* padding: 10px 20px 10px 35px ; */
+}
+.main-client{
+    width: 100%;
+    display: flex;
+    /* background-color: blue; */
+    height: 100px;
+
+}
+.left{
+    height: 195px;
+    width: 360px;
+    background-color: #2B2825;
+    padding: 10px 5px 10px 7px;
+    opacity: 0.1;
+    margin-left: 70px;
+    margin-top: 50px;
+}
+.leftz{
+    border: 1px solid white;
+    padding: 0px 0px 110px 0px;
+} 
+.left-ig{
+      margin-left: 10px;
+      margin-top: 10px;
+}
+.left-client{
+  text-transform: uppercase;
+  color: #E88F2A;
+  font-family: "Oswald",sans-serif;
+  margin-left: 100px;
+  margin-top: -90px;
+  width: 220px;
+  height: 50px;
+  /* background-color: aqua; */
+ } 
+.left-pro{ 
+   margin-top: -15px;
+    color: #FFF;
+   text-transform: capitalize;
+   font-size: 18px; 
+
+}
+.left-p p{
+   width: 300px;
+   height: 60px; 
+   color: #fff;
+   margin-top: 30px;
+   margin-left: -90px;
+   font-size: 13px;  
+    line-height: 23px;
+   
+ }  
+.center{
+    background-color: #2B2825;
+    width: 340px;
+    height: 195px;
+    margin-top: 49px;
+    margin-left: 70px;
+    padding: 10px 5px 10px 7px;
+    /* opacity: 0.2; */
+}
+.right{
+    background-color: #2B2825;
+    width: 340px;
+    height: 195px;
+    margin-top: 49px;
+    margin-left: 60px;
+    padding: 10px 5px 10px 7px;
+    opacity: 0.1;
+} 
+ .main-footer{
+    background: linear-gradient(rgba(43, 40, 37, .5), rgba(43, 40, 37, .5)), url(bg.jpg) center center no-repeat;
+    background-size: cover;
+    height: 320px;
+    width: 100%;
+    margin-top: 290px;
+    display: flex;
+} 
+.footer-cakezone{
+    margin-top: -30px;
+}
+
+
+.cake-footer{
+    background-color: #E88F2A;
+    height: 350px;
+    width: 350px;
+    margin-left: 100px;
+    margin-top: 0px;
+    position: relative;
+    padding: 15px 10px 60px 10px;
+    
+}
+.cake-footer>h1>a{
+    position: absolute;
+    text-decoration: none;
+    margin-left: 60px;
+    top: 10px;
+    left: -52px;
+    background-color: transparent;
+    border: 2px solid white;
+    padding: 40px 50px 250px 100px;
+    color: #FFF;
+    font-family: "Oswald",sans-serif;
+    
+    
+}
+.cake-footer>i{
+    font-size: 50px;
+    position: absolute;
+    left: 60px;
+    top: 40px;
+    color: #2B2825 ;
+    cursor: pointer;
+    
+}
+.cake-footer>p{
+    color: #FFF;
+    text-align: center;
+    position: absolute;
+    top: 80px;
+    font-size: 19px;
+    padding: 15px;
+    line-height: 25px;
+}
+.touch>h2{
+    color: #E88F2A;
+    text-transform: uppercase;
+    font-family: "Oswald",sans-serif;
+    margin-left: 60px;
+    margin-top: 50px;
+    /* background-color: aliceblue; */
+}
+.touch{
+    width: 300px;
+    /* background-color: aqua; */
+    margin-left: 0px;
+}
+.touch>i{
+    color: #E88F2A;
+    margin-left: 60px;
+    margin-top: 0px;
+    font-size: 18px;
+}
+.touch>p{
+    margin-left: 88px;
+    margin-top: -23px;
+    font-size: 20px;
+    color: #FFF;
+}
+.itc>i{
+    background-color: #E88F2A;
+    padding: 10px 10px 10px 10px;
+    border: 1px solid white;
+    color: #FFF;
+    margin-left: 10px;
+   
+}
+.iz{
+    padding-left: 50px;
+}
+.itc i:hover{
+    color: black;
+transition: 0.3s linear;
+}
+.quicklink>h2{
+    color: #E88F2A;
+    text-transform: uppercase;
+    font-family: "Oswald",sans-serif;
+    margin-left: 40px;
+    margin-top: 50px;
+    /* background-color: aliceblue; */
+}
+.quicklink{
+    width: 300px;
+    /* background-color: aqua; */
+    margin-left: 0px;
+    /* display: flex; */
+    display: grid;
+}
+.quicklink i{
+    color: #E88F2A;
+    margin-left: 40px;
+    cursor: pointer;
+    margin-top: -20px;
+}
+.quicklink a{
+    text-decoration: none;
+    color: #FFF;
+    margin-left: 65px;
+    font-size: 16px;
+    margin-top: -38px;
+    /* background-color: aqua; */
+    /* padding-bottom: 50px; */
+
+}
+.newslatter>h2{
+    color: #E88F2A;
+    text-transform: uppercase;
+    font-family: "Oswald",sans-serif;
+    margin-left: -20px;
+    margin-top: 50px;
+    /* background-color: aliceblue; */
+}
+.newslatter{
+    width: 300px;
+    /* background-color: aqua; */
+    margin-left: 0px;
+    /* display: flex; */
+    display: grid;
+}
+.newslatter p{
+    font-size: 18px;
+    /* background-color: blue; */
+    width: 170px;
+    height: 60px;
+    margin-left: -20px;
+    color: #FFF;
+    margin-top: -45px;
+}
+.newslatter input{
+    height: 50px;
+    width: 130px;
+    padding: 10px;
+    /* background-color: aqua; */
+    border: 0;
+    margin-top: -25px;
+    margin-left: -20px;
+}
+.newslatter button{
+    height: 50px;
+    width: 80px;
+    font-family: 'Oswald', sans-serif;
+    background-color: #E88F2A;
+    color: #FFF;
+    border: 0;
+    font-size: 18px;
+    margin-left: 110px;
+    margin-top: -116px;
+}
+.newslatter button:hover{
+    color: black;
+    transition: 0.3s;
+}
+.end-footer{
+    background-color: #111111;
+    height: 120px;
+    width: 100%;
+    margin-top: -20px;
+}
+.end-footer a{
+    color: #FFF;
+    font-size: 20px;
+    /* line-height: 10px; */
+
+}
+.end-footer p{
+    /* margin-left: 400px; */
+    padding-top: 35px;
+    font-size: 20px;
+    color: #FFF;
+    line-height: 1px;
+}

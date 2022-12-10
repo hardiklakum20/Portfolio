@@ -1,0 +1,501 @@
+@media only screen and (max-width: 576px) {
+    .bimg img{
+        height: 150px !important;
+        width: 170px !important;
+        margin-right: 12px !important;
+    }
+    .bbtn{
+        width: 270px !important;
+    }
+    .all .bic{
+        font-size: 20px !important;
+        margin-top: -40px !important;
+    }
+    .all .all1{
+        font-size: 12px !important;
+        margin-top: 50px !important;
+        margin-left: -50px !important;
+    }
+    .all .all2{
+        margin-left: -50px !important;
+    }
+    .all .bic1{
+        font-size: 20px !important;
+        margin-top: -40px !important;
+    }
+    .all .all3{
+        font-size: 12px !important;
+        margin-top: 50px !important;
+        margin-left: -60px !important;
+    }
+    .all .all4{
+        margin-left: -60px !important;
+        margin-top: -18px !important;
+    }
+    .all .bic2{
+        font-size: 20px !important;
+        margin-top: -60px !important;
+    }
+    .aimg{
+        display: none !important;
+    }
+    .quali{
+        margin-left: -330px !important;
+    }
+    .circle{
+        width: 30px !important;
+    }
+    .get2{
+        margin-left: -50px !important;
+        width: 520px !important;
+    }
+    .get{
+        margin-left: -30px !important;
+    }
+}
+
+
+@media only screen and (min-width: 576px) and (max-width:1074px){
+        .bimg img{
+            height: 150px !important;
+            width: 170px !important;
+            margin-right: 12px !important;
+        }
+        .bbtn{
+            width: 170px !important;
+        }
+        .all .bic{
+            font-size: 20px !important;
+            margin-top: -40px !important;
+        }
+        .all .all1{
+            font-size: 12px !important;
+            margin-top: 50px !important;
+            margin-left: -50px !important;
+        }
+        .all .all2{
+            margin-left: -50px !important;
+        }
+        .all .bic1{
+            font-size: 20px !important;
+            margin-top: -40px !important;
+        }
+        .all .all3{
+            font-size: 12px !important;
+            margin-top: 50px !important;
+            margin-left: -60px !important;
+        }
+        .all .all4{
+            margin-left: -60px !important;
+            margin-top: -18px !important;
+        }
+        .all .bic2{
+            font-size: 20px !important;
+            margin-top: -40px !important;
+        }
+        .aimg{
+            display: none !important;
+        }
+        .circle{
+            margin-left: 120px !important;
+            width: 20px !important;
+        }
+        .get2{
+            margin-left: -20px !important;
+            width: 560px !important;
+        }
+        .get{
+            margin-left: -60px !important;
+        }
+    }
+
+@media only screen and (min-width: 400px) and (max-width: 576px){
+    .int i{
+        margin-left: 45px !important;
+    } 
+    .int p{
+        display: flex !important;
+        margin-left: 10px !important;
+    } 
+    .bimg img{
+        display: none !important;
+    }
+    .navi{
+        width: 580px !important;
+    }
+    .bback{
+        min-width: 590px !important;
+    }
+    .bback p{
+        width: 400px !important;
+    }
+    .bback .self{
+        margin-left: 10px !important;
+    }
+    .all{
+        width: 580px !important;
+    }
+    .ser{
+        width: 610px !important;
+    }
+    .quali{
+        margin-left: 40px !important;
+    }
+    .qual{
+        margin-left: -280px !important;
+    }
+    .port{
+        width: 610px !important;
+    }
+    .newproj{
+        width: 610px !important;
+    }
+    .newproj p{
+        width: 280px !important;
+    }
+    #contact{
+        width: 605px !important;
+    }
+    #contact .get2{
+        width: 605px !important;
+        margin-left: 1px !important;
+    }
+    #contact .con{
+        margin-left: 65px !important;
+    }
+    #contact h2{
+        margin-left: 70px !important;
+    }
+    .foot{
+        width: 615px !important;
+    }
+}
+
+@media only screen and (max-width: 400px){
+    .int i{
+        margin-left: 20px !important;
+    } 
+    .int p{
+        display: flex !important;
+        margin-left: 10px !important;
+    } 
+    .bimg img{
+        display: none !important;
+    }
+    .navi{
+        width: 460px !important;
+    }
+    .bback{
+        min-width: 460px !important;
+    }
+    .bback p{
+        width: 400px !important;
+    }
+    .bback .self{
+        margin-left: 10px !important;
+    }
+    .all{
+        width: 460px !important;
+    }
+    .ser{
+        width: 480px !important;
+    }
+    .quali{
+        margin-left: 40px !important;
+    }
+    .qual{
+        margin-left: -330px !important;
+    }
+    .port{
+        width: 480px !important;
+    }
+    .newproj{
+        width: 480px !important;
+    }
+    .newproj p{
+        width: 280px !important;
+    }
+    #contact .con{
+        margin-left: 65px !important;
+    }
+    #contact h2{
+        margin-left: 70px !important;
+    }
+    .foot{
+        width: 480px !important;
+    }
+}
+
+
+
+@font-face {
+    font-family: alkalami;
+    src: url(Images/Alkalami-Regular.ttf);
+}
+
+*{
+    font-family: alkalami;
+}
+
+.mymenu a{
+    list-style: none;
+    color: black;
+    font-family: alkalami;
+}
+.mymenu a:hover{
+    color: aqua;
+    border-bottom: 1px solid aqua;
+    transition: linear 0.3s;
+}
+.all{
+    margin-top: -40px;
+}
+.all1{
+    margin-top: 20px;
+}
+.all2{
+    margin-top: -18px;
+}
+.all4{
+    margin-top: -18px;
+}
+.bic1{
+    margin-top: 10px;
+}
+.pro .pro1{
+    animation: progress 0.9s linear;
+}
+.pro .pro2{
+    animation: progress2 0.9s linear;
+    transition-delay: 0.1s;
+}
+.pro .pro3{
+    animation: progress3 0.9s linear;
+    transition-delay: 0.2s;
+}
+.pro .pro4{
+    animation: progress4 0.9s linear;
+    transition-delay: 0.3s;
+}
+.pro .pro5{
+    animation: progress5 0.9s linear;
+    transition-delay: 0.4s;
+}
+.pro .pro6{
+    animation: progress6 0.9s linear;
+    transition-delay: 0.5s;
+}
+.pro .pro7{
+    animation: progress7 0.9s linear;
+    transition-delay: 0.6s;
+}
+@keyframes progress {
+    0%{
+        width: 0;
+    }
+    100%{
+        width: 90%;
+    }
+}
+@keyframes progress2 {
+    0%{
+        width: 0;
+    }
+    100%{
+        width: 85%;
+    }
+}
+@keyframes progress3 {
+    0%{
+        width: 0;
+    }
+    100%{
+        width: 65%;
+    }
+}
+@keyframes progress4 {
+    0%{
+        width: 0;
+    }
+    100%{
+        width: 60%;
+    }
+}
+@keyframes progress5 {
+    0%{
+        width: 0;
+    }
+    100%{
+        width: 75%;
+    }
+}
+@keyframes progress6 {
+    0%{
+        width: 0;
+    }
+    100%{
+        width: 55%;
+    }
+}
+@keyframes progress7 {
+    0%{
+        width: 0;
+    }
+    100%{
+        width: 50%;
+    }
+}
+.circle{
+    height: 15px;
+    width: 25px;
+    background-color: aquamarine;
+    border-radius: 50%;
+    margin-left: 380px;
+    position: relative;
+}
+.circle:hover{
+    background-color: transparent;
+    border: 2px solid aquamarine;
+}
+.circle::after{
+    content: "";
+    height: 70px;
+    width: 2px;
+    position: absolute;
+    left: 6px;
+    top: 8px;
+    background-color: aquamarine;
+}
+.preiod i{
+    margin-top: -10px;
+    margin-left: -10px;
+}
+.preiod p{
+    margin-top: -13px;
+}
+.prot{
+    transition: transform 1s;
+}
+.prot:hover{
+    transform: scale(1.1);
+}
+.int{
+    display: flex;
+}
+.get2{
+    display: flex;
+}
+.name{
+    margin-left: -14px !important;
+}
+#main{
+    position: relative;
+}
+#main2{
+    position: relative;
+}
+#main3{
+    position: relative;
+}
+#main4{
+    position: relative;
+}
+#main5{
+    position: relative;
+}
+#main6{
+    position: relative;
+}
+.my{
+    animation: drop 2s linear;
+}
+.my2{
+    animation: drop2 2s linear;
+}
+.my3{
+    animation: drop3 2s linear;
+}
+.my4{
+    animation: drop4 2s linear;
+}
+.my5{
+    animation: drop5 2s linear;
+}
+.my6{
+    animation: drop6 2s linear;
+}
+@keyframes drop {
+    0%{
+        transform: translateY(-100px) scalex(0.5);
+        opacity: 0;
+    }
+}
+@keyframes drop2 {
+    20%{
+        transform: translateY(-100px) scalex(0.5);
+        opacity: 0;
+    }
+    
+}
+@keyframes drop3 {
+    40%{
+        transform: translateY(-100px) scalex(0.5);
+        opacity: 0;
+    }
+    
+}
+@keyframes drop4 {
+    60%{
+        transform: translateY(-100px) scalex(0.5);
+        opacity: 0;
+    }
+    
+}
+@keyframes drop5 {
+    80%{
+        transform: translateY(-100px) scalex(0.5);
+        opacity: 0;
+    }
+    
+}
+@keyframes drop6 {
+    95%{
+        transform: translateY(-100px) scalex(0.5);
+        opacity: 0;
+    }
+    
+}
+.loader-container{
+    width: 100%;
+    height: 100vh;
+    background-color: black;
+    position: fixed;
+    z-index: 2;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.loader{
+    width: 50px;
+    height: 50px;
+    border: 5px solid;
+    color: #3498db;
+    border-radius: 50%;
+    border-top-color: transparent;
+    animation: loader 1.2s linear infinite;
+}
+@keyframes loader {
+25%{
+    color: #2ecc71;
+}
+50%{
+    color: #f1c40f;
+}
+75%{
+    color:#e74c3c;
+}
+
+to{
+    transform: rotate(360deg);
+}
+}
